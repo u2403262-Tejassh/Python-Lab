@@ -1,0 +1,1501 @@
+OrderID,Product,Category,Region,Quantity,Price,OrderDate
+1,Football,Sports,South,7,7975.6,06-05-2025
+2,Tablet,Electronics,North,15,7333.34,07-10-2025
+3,Sugar Pack,Groceries,South,7,,22-04-2025
+4,Cooking Oil,Groceries,West,11,4619.53,29-11-2025
+5,Sofa,Furniture,South,4,1471.52,04-01-2025
+6,Tennis Racket,Sports,East,3,254.82,21-04-2025
+7,Smartwatch,Electronics,East,2,7233.89,26-06-2025
+8,Mobile,Electronics,North,6,57.75,13-07-2025
+9,Milk Pack,Groceries,South,1,3077.21,05-07-2025
+10,Tennis Racket,Sports,North,12,279.47,29-05-2025
+11,Sofa,Furniture,East,10,514.32,21-08-2025
+12,Chair,Furniture,North,16,2366.07,17-05-2025
+13,Tea Powder,Groceries,South,15,6202.94,06-05-2025
+14,Sweater,Clothing,South,12,5166.63,24-11-2025
+15,Cricket Bat,Sports,South,3,8606.41,29-01-2025
+16,Mobile,Electronics,South,7,1746.72,03-02-2025
+17,Sugar Pack,Groceries,West,7,181.99,02-12-2025
+18,Jacket,Clothing,East,14,8093.55,15-03-2025
+19,Tablet,Electronics,West,9,208.86,15-05-2025
+20,Sugar Pack,Groceries,West,2,6858.12,12-03-2025
+21,Headphones,Electronics,South,15,6848.47,20-03-2025
+22,Cricket Bat,Sports,West,12,4977.01,15-07-2025
+23,Cooking Oil,Groceries,North,15,1774.98,06-01-2025
+24,Cricket Bat,Sports,East,17,2624.86,25-11-2025
+25,Smartwatch,Electronics,East,8,7565.85,02-01-2025
+26,Cooking Oil,Groceries,East,6,2119.02,24-02-2025
+27,Football,Sports,South,4,1889.3,11-07-2025
+28,Milk Pack,Groceries,East,18,7762.57,01-01-2025
+29,Rice Bag,Groceries,South,,3981.74,07-06-2025
+30,Mobile,Electronics,North,4,5999.1,10-02-2025
+31,Badminton Shuttle,Sports,South,16,3299.08,30-09-2025
+32,Tablet,Electronics,East,14,2000.03,26-03-2025
+33,Cooking Oil,Groceries,South,8,8453.11,19-04-2025
+34,Tennis Racket,Sports,East,13,2749.92,29-11-2025
+35,Sweater,Clothing,South,13,1452.2,07-05-2025
+36,Headphones,Electronics,South,15,1694.41,28-04-2025
+37,Laptop,Electronics,North,7,4262.84,28-04-2025
+38,Mobile,Electronics,East,1,2027.22,02-05-2025
+39,Cricket Bat,Sports,West,11,2028.48,20-10-2025
+40,Sofa,Furniture,North,8,7303.62,08-04-2025
+41,Smartwatch,Electronics,West,1,6079.3,30-07-2025
+42,Badminton Shuttle,Sports,North,10,3616.73,27-11-2025
+43,Mobile,Electronics,South,9,9153.85,25-02-2025
+44,Table,Furniture,South,9,6251.82,05-08-2025
+45,Wardrobe,Furniture,West,2,999.33,08-02-2025
+46,Milk Pack,Groceries,North,5,7309.58,04-10-2025
+47,Headphones,Electronics,West,8,2783.48,27-03-2025
+48,Rice Bag,Groceries,South,3,4748.54,31-01-2025
+49,Jacket,Clothing,East,,9718.54,21-08-2025
+50,Kurta,Clothing,West,3,7619.81,12-10-2025
+51,Tablet,Electronics,North,14,4963.27,30-01-2025
+52,Badminton Shuttle,Sports,South,9,7121.1,02-09-2025
+53,Mobile,Electronics,North,10,4421.4,06-04-2025
+54,Tea Powder,Groceries,North,19,362.72,26-07-2025
+55,Sugar Pack,Groceries,North,7,4779.93,14-11-2025
+56,Kurta,Clothing,East,4,9080.29,11-06-2025
+57,Table,Furniture,West,7,4133.31,16-05-2025
+58,Tablet,Electronics,North,11,2070.46,11-06-2025
+59,Laptop,Electronics,North,13,815.95,21-02-2025
+60,Milk Pack,Groceries,North,19,1654.15,28-06-2025
+61,Sofa,Furniture,East,2,6262.32,06-10-2025
+62,Tea Powder,Groceries,North,6,4592.52,28-09-2025
+63,Cricket Bat,Sports,North,12,1906.37,06-12-2025
+64,Tablet,Electronics,South,11,3277.23,11-10-2025
+65,Wardrobe,Furniture,South,7,9072.94,25-06-2025
+66,Cricket Bat,Sports,East,1,2317.95,08-09-2025
+67,Mobile,Electronics,North,13,8614.27,22-05-2025
+68,Laptop,Electronics,South,7,1688.33,15-05-2025
+69,Badminton Shuttle,Sports,North,9,4874.06,15-10-2025
+70,Smartwatch,Electronics,North,1,1242.66,18-03-2025
+71,Jeans,Clothing,North,12,2479.05,07-03-2025
+72,Desk,Furniture,East,9,4068.17,21-01-2025
+73,Table,Furniture,West,17,2576.46,01-07-2025
+74,Tea Powder,Groceries,South,12,2555.23,02-05-2025
+75,Chair,Furniture,West,2,,20-06-2025
+76,Cricket Bat,Sports,South,5,2884.16,17-05-2025
+77,Tennis Racket,Sports,South,17,2704.47,29-08-2025
+78,Table,Furniture,South,2,5051.66,06-06-2025
+79,Sofa,Furniture,East,,3483.46,18-06-2025
+80,Headphones,Electronics,West,1,2433.64,25-11-2025
+81,Cricket Bat,Sports,North,2,5332.8,15-01-2025
+82,Wardrobe,Furniture,North,6,2458.45,16-05-2025
+83,Smartwatch,Electronics,West,4,854.49,10-06-2025
+84,Tea Powder,Groceries,South,17,7295.75,23-10-2025
+85,Wardrobe,Furniture,South,,6341.44,24-09-2025
+86,Jeans,Clothing,East,6,4018.3,19-06-2025
+87,Cricket Bat,Sports,East,16,7993.53,03-06-2025
+88,Cricket Bat,Sports,South,9,3241.76,01-06-2025
+89,Table,Furniture,South,6,6973.34,13-12-2025
+90,Tea Powder,Groceries,East,3,5929.38,01-01-2025
+91,Desk,Furniture,East,4,215.05,07-11-2025
+92,Sweater,Clothing,West,3,8104.54,19-09-2025
+93,Badminton Shuttle,Sports,East,7,1784.95,21-09-2025
+94,Headphones,Electronics,East,1,4005.84,11-12-2025
+95,Sofa,Furniture,South,7,9370.46,24-01-2025
+96,Rice Bag,Groceries,West,1,6773.12,22-08-2025
+97,Football,Sports,West,18,9250.7,16-07-2025
+98,Jacket,Clothing,North,10,2616.52,03-01-2025
+99,Yoga Mat,Sports,West,16,8181.36,23-12-2025
+100,Mobile,Electronics,West,17,2456.43,04-03-2025
+101,Tablet,Electronics,East,16,9655.92,14-10-2025
+102,Yoga Mat,Sports,West,5,9009.16,16-09-2025
+103,Milk Pack,Groceries,West,9,2824.77,01-09-2025
+104,Wardrobe,Furniture,West,19,7273.26,22-05-2025
+105,Football,Sports,East,3,8570.43,01-01-2026
+106,Sofa,Furniture,North,1,6438.21,04-10-2025
+107,Tablet,Electronics,South,11,9359.57,20-03-2025
+108,Headphones,Electronics,West,4,8990.61,27-08-2025
+109,Mobile,Electronics,North,3,3754.21,27-10-2025
+110,Yoga Mat,Sports,East,3,9737.96,30-06-2025
+111,Yoga Mat,Sports,South,18,1650.04,03-08-2025
+112,Rice Bag,Groceries,West,18,4881.86,15-01-2025
+113,T-Shirt,Clothing,West,3,6537.01,26-03-2025
+114,Tablet,Electronics,North,9,1800.46,21-07-2025
+115,Headphones,Electronics,South,4,2410.63,25-08-2025
+116,Mobile,Electronics,East,16,7477.59,21-08-2025
+117,T-Shirt,Clothing,East,8,8499.77,04-08-2025
+118,Headphones,Electronics,East,17,3115.2,27-01-2025
+119,Sofa,Furniture,North,16,982.06,30-11-2025
+120,Yoga Mat,Sports,South,,6381.51,11-01-2025
+121,Sofa,Furniture,South,14,5919.21,16-10-2025
+122,Sweater,Clothing,North,6,3961.32,27-03-2025
+123,Yoga Mat,Sports,North,8,6329.83,25-02-2025
+124,Desk,Furniture,West,2,3533.28,12-07-2025
+125,Tennis Racket,Sports,South,1,5790.19,18-11-2025
+126,Smartwatch,Electronics,North,1,1992.67,17-12-2025
+127,Sugar Pack,Groceries,East,16,2843.69,08-08-2025
+128,Headphones,Electronics,West,3,7697.11,04-08-2025
+129,Smartwatch,Electronics,South,17,9945.78,24-08-2025
+130,Kurta,Clothing,East,14,9152.9,30-11-2025
+131,Tea Powder,Groceries,West,3,7489.8,05-09-2025
+132,Kurta,Clothing,South,5,9286.77,15-06-2025
+133,Headphones,Electronics,West,17,5550.01,26-08-2025
+134,T-Shirt,Clothing,West,,9804.3,04-04-2025
+135,Table,Furniture,East,1,3203.37,24-05-2025
+136,Milk Pack,Groceries,South,,5590.17,13-02-2025
+137,Badminton Shuttle,Sports,West,3,5722.11,04-05-2025
+138,Football,Sports,North,18,6169.32,09-01-2025
+139,Desk,Furniture,East,2,2578.93,06-06-2025
+140,Rice Bag,Groceries,East,10,8779.86,09-10-2025
+141,Jeans,Clothing,South,17,8494.26,09-05-2025
+142,Smartwatch,Electronics,South,9,7039.72,02-10-2025
+143,Table,Furniture,East,16,5550.56,29-10-2025
+144,Smartwatch,Electronics,South,10,8103.14,04-07-2025
+145,Desk,Furniture,North,,2599.26,21-05-2025
+146,Mobile,Electronics,West,13,861.86,06-03-2025
+147,Smartwatch,Electronics,West,7,5040.09,29-08-2025
+148,Sweater,Clothing,West,13,1983.03,10-05-2025
+149,Smartwatch,Electronics,North,8,7034.57,07-02-2025
+150,Tablet,Electronics,North,16,555.15,05-06-2025
+151,Sofa,Furniture,South,19,3413.05,07-11-2025
+152,Yoga Mat,Sports,East,2,985.12,15-08-2025
+153,Sugar Pack,Groceries,North,19,4682.7,14-11-2025
+154,Tea Powder,Groceries,South,17,421.61,17-04-2025
+155,Wardrobe,Furniture,North,6,3067.49,30-03-2025
+156,Chair,Furniture,West,,1314.25,01-11-2025
+157,Desk,Furniture,West,,8287.3,25-05-2025
+158,Headphones,Electronics,South,12,9654.26,17-11-2025
+159,Kurta,Clothing,East,7,899.21,18-03-2025
+160,Tablet,Electronics,East,13,1984.08,07-06-2025
+161,Sweater,Clothing,West,15,7010.15,25-12-2025
+162,Wardrobe,Furniture,North,8,7274.61,11-02-2025
+163,Kurta,Clothing,North,13,9696.89,14-01-2025
+164,Sofa,Furniture,North,10,3263.42,22-10-2025
+165,Yoga Mat,Sports,South,17,4018.27,21-01-2025
+166,Rice Bag,Groceries,South,19,4417.77,23-05-2025
+167,Sugar Pack,Groceries,West,5,1884.12,16-02-2025
+168,Jeans,Clothing,South,9,6900.57,23-02-2025
+169,T-Shirt,Clothing,West,1,1774.28,06-12-2025
+170,Yoga Mat,Sports,East,1,4451.4,11-06-2025
+171,T-Shirt,Clothing,North,16,1869.52,21-09-2025
+172,Cricket Bat,Sports,South,13,2835.34,28-01-2025
+173,Cooking Oil,Groceries,West,16,5191.13,17-11-2025
+174,Yoga Mat,Sports,East,5,6136.62,09-03-2025
+175,Sweater,Clothing,South,3,2514.92,15-01-2025
+176,Tennis Racket,Sports,West,16,1628.53,10-10-2025
+177,Headphones,Electronics,West,14,963.4,28-02-2025
+178,Smartwatch,Electronics,East,15,455.25,30-05-2025
+179,Kurta,Clothing,West,14,9796.13,05-05-2025
+180,Milk Pack,Groceries,South,5,4768.03,03-11-2025
+181,Headphones,Electronics,East,16,8078.78,01-08-2025
+182,Cooking Oil,Groceries,West,4,,02-06-2025
+183,Tablet,Electronics,West,5,4015.12,20-06-2025
+184,Sweater,Clothing,South,10,9494,24-12-2025
+185,Sugar Pack,Groceries,North,4,500.77,30-07-2025
+186,T-Shirt,Clothing,West,10,6277.31,15-07-2025
+187,Cricket Bat,Sports,West,1,5416.81,19-03-2025
+188,Mobile,Electronics,North,13,1671.2,19-06-2025
+189,Sweater,Clothing,South,16,6442.07,08-01-2025
+190,Kurta,Clothing,West,17,8678.63,08-02-2025
+191,Wardrobe,Furniture,North,12,3912.29,29-11-2025
+192,T-Shirt,Clothing,East,1,4609.62,14-07-2025
+193,Football,Sports,North,19,8215.36,05-10-2025
+194,Tea Powder,Groceries,South,12,3891.72,28-05-2025
+195,Badminton Shuttle,Sports,North,1,6532.27,21-11-2025
+196,Sweater,Clothing,North,11,1998.12,15-01-2025
+197,T-Shirt,Clothing,West,13,2185.16,11-07-2025
+198,Tablet,Electronics,South,14,231.31,16-12-2025
+199,Chair,Furniture,South,19,6201.63,15-07-2025
+200,Rice Bag,Groceries,East,17,6574.44,25-08-2025
+201,Sweater,Clothing,East,10,,27-08-2025
+202,Cricket Bat,Sports,East,2,2643.91,26-06-2025
+203,Football,Sports,East,7,1225.74,22-08-2025
+204,Table,Furniture,South,18,6307.98,24-02-2025
+205,Jacket,Clothing,East,4,4208.56,25-12-2025
+206,Laptop,Electronics,North,4,1815.52,21-05-2025
+207,Sugar Pack,Groceries,West,9,5706.78,26-01-2025
+208,Desk,Furniture,South,3,9905.53,30-06-2025
+209,Football,Sports,South,16,1320.51,04-12-2025
+210,Football,Sports,East,17,7775.31,21-01-2025
+211,Sweater,Clothing,North,,2424.04,09-03-2025
+212,Desk,Furniture,South,13,7412.09,13-04-2025
+213,Milk Pack,Groceries,East,3,1076.08,14-09-2025
+214,Chair,Furniture,East,17,5366.56,04-09-2025
+215,Badminton Shuttle,Sports,North,16,3926.7,28-08-2025
+216,Tablet,Electronics,West,13,8960.46,13-12-2025
+217,Milk Pack,Groceries,East,17,582.18,08-01-2025
+218,Milk Pack,Groceries,East,9,8479.07,11-12-2025
+219,Sugar Pack,Groceries,North,9,3227.17,10-07-2025
+220,Cricket Bat,Sports,East,14,,15-10-2025
+221,Tea Powder,Groceries,East,19,4955.61,26-08-2025
+222,Football,Sports,East,16,4512.03,20-01-2025
+223,Rice Bag,Groceries,South,3,6044.29,03-10-2025
+224,Jacket,Clothing,West,4,9464.64,23-12-2025
+225,Sugar Pack,Groceries,North,16,7906.7,01-08-2025
+226,Rice Bag,Groceries,North,13,9312.74,24-05-2025
+227,Tennis Racket,Sports,East,7,9959.52,01-05-2025
+228,Smartwatch,Electronics,East,5,7383.5,27-11-2025
+229,Mobile,Electronics,West,11,7073.02,04-03-2025
+230,Headphones,Electronics,North,15,1472.77,02-11-2025
+231,Mobile,Electronics,South,10,8377.79,06-03-2025
+232,Headphones,Electronics,South,17,1056.17,28-10-2025
+233,Sofa,Furniture,North,7,4289.61,02-11-2025
+234,Wardrobe,Furniture,East,8,773.99,08-03-2025
+235,Chair,Furniture,North,18,8924.37,09-03-2025
+236,Jeans,Clothing,North,2,859.42,15-06-2025
+237,Chair,Furniture,North,5,2370.62,04-08-2025
+238,Badminton Shuttle,Sports,North,8,3773.99,05-07-2025
+239,Sweater,Clothing,East,1,8809.58,23-01-2025
+240,Sweater,Clothing,West,17,,03-09-2025
+241,Kurta,Clothing,North,13,7546.11,16-08-2025
+242,Headphones,Electronics,East,6,7096.4,06-03-2025
+243,Tea Powder,Groceries,West,19,7782.61,16-06-2025
+244,Tea Powder,Groceries,West,7,4271.01,06-11-2025
+245,Smartwatch,Electronics,South,19,1156.41,02-12-2025
+246,Kurta,Clothing,West,3,2574.14,23-06-2025
+247,Jacket,Clothing,East,18,4713.17,07-08-2025
+248,Cricket Bat,Sports,West,8,1219.39,18-12-2025
+249,Headphones,Electronics,North,9,7454.91,10-08-2025
+250,Badminton Shuttle,Sports,North,3,5854.52,12-10-2025
+251,Sugar Pack,Groceries,North,17,874.77,10-12-2025
+252,Kurta,Clothing,North,1,2274.78,05-08-2025
+253,Desk,Furniture,South,6,8030.99,23-10-2025
+254,Tablet,Electronics,East,13,9700.29,25-02-2025
+255,Milk Pack,Groceries,South,15,8916.87,21-10-2025
+256,Kurta,Clothing,North,11,9195.2,15-11-2025
+257,Tea Powder,Groceries,North,4,5560.85,17-05-2025
+258,Chair,Furniture,East,18,1703.84,23-06-2025
+259,Laptop,Electronics,West,17,6972.7,03-12-2025
+260,Headphones,Electronics,North,1,6294.2,16-01-2025
+261,Badminton Shuttle,Sports,East,3,9016.52,21-08-2025
+262,Chair,Furniture,North,11,2845.58,18-10-2025
+263,Mobile,Electronics,North,16,8908.12,26-01-2025
+264,Wardrobe,Furniture,West,12,1112.22,07-11-2025
+265,Kurta,Clothing,East,8,1738.32,28-02-2025
+266,Kurta,Clothing,West,4,4663.8,31-10-2025
+267,Cooking Oil,Groceries,North,18,,22-07-2025
+268,Laptop,Electronics,East,5,9745.23,12-03-2025
+269,Desk,Furniture,South,17,,09-08-2025
+270,Tablet,Electronics,East,13,6863.08,14-09-2025
+271,Headphones,Electronics,North,13,9113.73,12-08-2025
+272,Sweater,Clothing,West,6,9500.51,22-10-2025
+273,Sugar Pack,Groceries,North,5,6153.48,29-05-2025
+274,Jacket,Clothing,West,,873.35,13-11-2025
+275,Tennis Racket,Sports,South,18,5538.3,24-02-2025
+276,Kurta,Clothing,East,5,312.35,22-07-2025
+277,Badminton Shuttle,Sports,North,1,7787.14,28-03-2025
+278,Cooking Oil,Groceries,East,18,9873.4,10-04-2025
+279,Jeans,Clothing,South,17,3798.55,17-03-2025
+280,Smartwatch,Electronics,South,17,8391.37,05-11-2025
+281,Yoga Mat,Sports,West,2,416.38,18-11-2025
+282,Sweater,Clothing,East,1,186.04,18-08-2025
+283,Football,Sports,West,6,6932.56,29-08-2025
+284,Football,Sports,East,5,9997.19,29-01-2025
+285,Cooking Oil,Groceries,North,6,9136,20-01-2025
+286,Jeans,Clothing,West,5,7274.9,16-02-2025
+287,Sweater,Clothing,West,10,8503.99,22-01-2025
+288,Sugar Pack,Groceries,South,17,2448.79,01-09-2025
+289,Mobile,Electronics,North,9,1335.14,25-06-2025
+290,Cooking Oil,Groceries,West,19,,29-12-2025
+291,Sweater,Clothing,East,4,2325,06-07-2025
+292,Desk,Furniture,North,17,7582.14,14-12-2025
+293,Football,Sports,West,2,3613.72,18-02-2025
+294,Desk,Furniture,South,8,270.74,05-11-2025
+295,T-Shirt,Clothing,East,2,4788.3,29-06-2025
+296,Football,Sports,North,3,5225.63,01-11-2025
+297,Desk,Furniture,South,12,8173.04,18-06-2025
+298,Cricket Bat,Sports,North,12,5631.33,17-12-2025
+299,Football,Sports,East,17,1383.45,10-01-2025
+300,Desk,Furniture,South,15,4234.33,06-09-2025
+301,Sofa,Furniture,North,5,6222.08,01-06-2025
+302,Cooking Oil,Groceries,North,2,8060.19,27-09-2025
+303,Cricket Bat,Sports,West,7,1406.9,09-03-2025
+304,Tablet,Electronics,South,2,3538.35,16-11-2025
+305,Badminton Shuttle,Sports,South,2,6384.61,13-12-2025
+306,Sweater,Clothing,South,15,4402.88,18-08-2025
+307,Milk Pack,Groceries,South,2,3515.14,29-08-2025
+308,Jeans,Clothing,West,6,4536.56,14-08-2025
+309,Yoga Mat,Sports,West,15,3995.6,28-09-2025
+310,Chair,Furniture,East,10,8630.52,12-03-2025
+311,Mobile,Electronics,North,5,7974.89,11-10-2025
+312,Tennis Racket,Sports,North,10,9269.55,26-05-2025
+313,Yoga Mat,Sports,South,10,7700.73,20-09-2025
+314,Kurta,Clothing,East,5,9801.32,19-08-2025
+315,Laptop,Electronics,South,2,3321.08,11-07-2025
+316,Jacket,Clothing,East,11,5817.52,15-01-2025
+317,Smartwatch,Electronics,South,11,804.84,16-03-2025
+318,Mobile,Electronics,South,16,1561.43,23-12-2025
+319,Yoga Mat,Sports,North,16,6426.7,03-01-2025
+320,Laptop,Electronics,West,8,6980.19,08-10-2025
+321,Smartwatch,Electronics,North,3,8749.46,04-03-2025
+322,Sofa,Furniture,North,18,6039.26,23-08-2025
+323,Smartwatch,Electronics,North,19,456.64,02-10-2025
+324,Football,Sports,East,5,3483.57,15-03-2025
+325,Kurta,Clothing,West,,1811.25,20-10-2025
+326,Chair,Furniture,North,6,1250.33,04-07-2025
+327,Cooking Oil,Groceries,North,9,3592.12,17-09-2025
+328,Jacket,Clothing,East,14,,18-07-2025
+329,Wardrobe,Furniture,East,14,3334.49,04-02-2025
+330,Sofa,Furniture,East,9,968.29,25-10-2025
+331,Tablet,Electronics,South,,6297.61,26-11-2025
+332,Yoga Mat,Sports,South,15,5140.99,03-09-2025
+333,Tablet,Electronics,North,11,9212.68,23-08-2025
+334,Desk,Furniture,East,17,2804.93,22-01-2025
+335,Desk,Furniture,West,1,890.94,06-10-2025
+336,Wardrobe,Furniture,East,,1885.98,27-05-2025
+337,Yoga Mat,Sports,North,,5389.08,20-05-2025
+338,Jeans,Clothing,West,14,6201.63,14-08-2025
+339,T-Shirt,Clothing,East,14,4652.22,12-09-2025
+340,Cooking Oil,Groceries,North,13,670.3,06-08-2025
+341,Kurta,Clothing,East,19,7147.83,07-10-2025
+342,T-Shirt,Clothing,East,15,8452.18,01-06-2025
+343,Sweater,Clothing,West,11,5344.53,20-12-2025
+344,Jeans,Clothing,West,13,8678.79,30-06-2025
+345,Wardrobe,Furniture,North,6,5349.54,30-01-2025
+346,Cricket Bat,Sports,South,15,1093.45,14-12-2025
+347,Laptop,Electronics,North,5,1863.72,13-08-2025
+348,Tablet,Electronics,East,7,3254.69,07-07-2025
+349,Jacket,Clothing,West,7,,20-03-2025
+350,Jeans,Clothing,South,12,2370.5,21-10-2025
+351,Cooking Oil,Groceries,South,13,5956.24,23-05-2025
+352,Smartwatch,Electronics,West,,3583.29,23-09-2025
+353,Milk Pack,Groceries,West,9,5009.5,27-12-2025
+354,Table,Furniture,South,15,5862.78,09-09-2025
+355,Smartwatch,Electronics,West,2,5599.54,30-03-2025
+356,Headphones,Electronics,East,8,4345.01,13-06-2025
+357,Tennis Racket,Sports,South,19,3818.79,03-06-2025
+358,Tennis Racket,Sports,East,5,3662.67,31-03-2025
+359,Cooking Oil,Groceries,South,2,2481.31,13-03-2025
+360,Rice Bag,Groceries,West,,3336.97,08-07-2025
+361,Milk Pack,Groceries,East,1,124.97,03-02-2025
+362,Jacket,Clothing,West,6,3685.3,27-09-2025
+363,Yoga Mat,Sports,East,16,1648.78,06-03-2025
+364,Football,Sports,East,11,924.48,22-09-2025
+365,Tablet,Electronics,South,9,848.33,24-11-2025
+366,Yoga Mat,Sports,North,19,231.51,29-01-2025
+367,Cooking Oil,Groceries,South,5,9824.67,15-06-2025
+368,Jeans,Clothing,North,6,4008.66,26-05-2025
+369,Wardrobe,Furniture,South,11,8661.8,21-05-2025
+370,Football,Sports,South,6,9751.92,15-09-2025
+371,Sugar Pack,Groceries,East,6,6703,04-12-2025
+372,Sugar Pack,Groceries,North,,5589.79,11-02-2025
+373,Football,Sports,West,8,4792.36,18-04-2025
+374,Tea Powder,Groceries,East,13,7706.45,18-11-2025
+375,Football,Sports,West,6,9681.54,17-12-2025
+376,Desk,Furniture,West,4,4283.09,22-03-2025
+377,Kurta,Clothing,South,1,7375.66,07-11-2025
+378,T-Shirt,Clothing,West,12,1192.63,26-06-2025
+379,Tablet,Electronics,East,14,2921.87,24-02-2025
+380,Sofa,Furniture,South,5,5085.73,07-05-2025
+381,Smartwatch,Electronics,West,4,3240.39,12-11-2025
+382,Sofa,Furniture,East,3,565.64,17-06-2025
+383,Table,Furniture,West,18,4569.97,21-09-2025
+384,Rice Bag,Groceries,West,5,680.58,16-02-2025
+385,Cooking Oil,Groceries,East,12,2057.22,26-10-2025
+386,Mobile,Electronics,West,8,8108.25,01-12-2025
+387,Desk,Furniture,South,1,1431.31,09-08-2025
+388,Wardrobe,Furniture,North,9,7614.27,07-07-2025
+389,Jacket,Clothing,East,11,4758,05-07-2025
+390,Headphones,Electronics,East,6,4147.82,09-10-2025
+391,Tea Powder,Groceries,West,17,8514.74,19-02-2025
+392,Jeans,Clothing,South,12,4114.76,07-07-2025
+393,Table,Furniture,North,11,9386.49,21-01-2025
+394,Mobile,Electronics,West,12,3823.32,31-08-2025
+395,Tablet,Electronics,East,1,7424.15,17-06-2025
+396,Chair,Furniture,East,8,8288.01,03-06-2025
+397,Cooking Oil,Groceries,East,5,2056.19,29-12-2025
+398,Rice Bag,Groceries,North,3,1684.44,11-12-2025
+399,Kurta,Clothing,North,5,2395.13,19-12-2025
+400,Tea Powder,Groceries,South,14,5254.5,24-10-2025
+401,Badminton Shuttle,Sports,West,4,3196.16,26-09-2025
+402,Tablet,Electronics,North,10,3954.83,21-10-2025
+403,Table,Furniture,West,,4546.89,19-03-2025
+404,Tennis Racket,Sports,West,8,3800.6,10-11-2025
+405,Badminton Shuttle,Sports,South,19,6259.81,23-09-2025
+406,Milk Pack,Groceries,West,1,7488.71,27-09-2025
+407,T-Shirt,Clothing,East,15,5795.99,30-09-2025
+408,Milk Pack,Groceries,East,17,9000.77,15-12-2025
+409,Tea Powder,Groceries,East,2,5458.35,23-05-2025
+410,Sofa,Furniture,South,8,2328.8,28-05-2025
+411,Tennis Racket,Sports,East,7,1213.14,28-06-2025
+412,Desk,Furniture,West,6,3361.52,14-07-2025
+413,Jeans,Clothing,North,19,3382.31,29-05-2025
+414,Desk,Furniture,East,15,8792.36,15-08-2025
+415,Badminton Shuttle,Sports,East,1,5357.94,03-10-2025
+416,Milk Pack,Groceries,South,7,5752.85,12-11-2025
+417,Sofa,Furniture,South,6,7536.41,26-04-2025
+418,Mobile,Electronics,North,5,7796.79,30-08-2025
+419,Cricket Bat,Sports,South,1,,09-10-2025
+420,Kurta,Clothing,West,2,7636.46,01-09-2025
+421,Football,Sports,East,10,3453.71,14-06-2025
+422,Football,Sports,South,6,5387.99,30-11-2025
+423,Milk Pack,Groceries,South,15,8472.2,20-01-2025
+424,Kurta,Clothing,West,15,7983.09,19-01-2025
+425,Rice Bag,Groceries,North,5,4889.26,29-05-2025
+426,Laptop,Electronics,East,4,7236.41,21-06-2025
+427,Sweater,Clothing,South,2,171.42,10-09-2025
+428,Cooking Oil,Groceries,East,19,6954.79,27-02-2025
+429,Chair,Furniture,North,4,7175.98,06-04-2025
+430,Badminton Shuttle,Sports,South,5,8276.65,12-12-2025
+431,Chair,Furniture,West,10,3458.12,27-07-2025
+432,Cooking Oil,Groceries,South,6,4038.47,18-02-2025
+433,Tablet,Electronics,East,15,2914.9,04-01-2025
+434,Jacket,Clothing,East,11,1575.85,18-06-2025
+435,Sugar Pack,Groceries,East,13,,01-12-2025
+436,Tennis Racket,Sports,East,18,6133.97,27-08-2025
+437,Chair,Furniture,East,15,7274.65,27-12-2025
+438,Tennis Racket,Sports,East,11,9324.58,01-06-2025
+439,Tea Powder,Groceries,South,4,9191.57,02-09-2025
+440,Sweater,Clothing,West,5,9228.87,01-08-2025
+441,Yoga Mat,Sports,South,8,6531.1,22-04-2025
+442,Cricket Bat,Sports,West,17,5784.07,11-02-2025
+443,Cooking Oil,Groceries,North,9,4270.1,16-10-2025
+444,Mobile,Electronics,South,14,9346.95,14-04-2025
+445,Chair,Furniture,South,11,4535.85,01-03-2025
+446,Tennis Racket,Sports,West,14,2397.27,19-09-2025
+447,Mobile,Electronics,North,14,1903.89,22-08-2025
+448,Milk Pack,Groceries,West,1,8705.47,12-01-2025
+449,Wardrobe,Furniture,North,19,5933.19,24-10-2025
+450,Mobile,Electronics,North,15,594.88,05-10-2025
+451,Headphones,Electronics,West,9,2095.52,27-05-2025
+452,Chair,Furniture,West,9,1186.96,27-11-2025
+453,Jeans,Clothing,West,11,9233.45,13-07-2025
+454,Headphones,Electronics,South,7,3502.18,04-10-2025
+455,Football,Sports,West,2,9188.62,03-10-2025
+456,Cooking Oil,Groceries,North,11,376.82,02-01-2025
+457,Desk,Furniture,West,19,2519.85,06-08-2025
+458,Sofa,Furniture,South,7,1696.86,22-05-2025
+459,Badminton Shuttle,Sports,West,1,,05-12-2025
+460,Tea Powder,Groceries,South,11,6341.03,09-01-2025
+461,Table,Furniture,North,18,6652.2,17-08-2025
+462,Sofa,Furniture,South,7,9756.64,30-04-2025
+463,Yoga Mat,Sports,East,9,1529.19,15-09-2025
+464,Sofa,Furniture,East,8,5046.84,13-06-2025
+465,Sofa,Furniture,South,1,3133.87,05-12-2025
+466,Kurta,Clothing,South,19,2138.56,30-10-2025
+467,Football,Sports,East,19,3526.4,25-01-2025
+468,Football,Sports,West,17,413.67,13-06-2025
+469,Kurta,Clothing,West,16,5670.17,03-10-2025
+470,Sofa,Furniture,South,18,2975.74,29-12-2025
+471,Sweater,Clothing,South,19,4560.22,02-08-2025
+472,Jacket,Clothing,North,2,5367.84,28-11-2025
+473,Sweater,Clothing,North,17,4037.59,08-04-2025
+474,Wardrobe,Furniture,North,6,7665.29,21-01-2025
+475,Table,Furniture,South,4,1860.18,10-12-2025
+476,Rice Bag,Groceries,North,7,7544.8,05-06-2025
+477,Table,Furniture,West,10,2743.91,02-03-2025
+478,Sofa,Furniture,South,14,5289.46,23-07-2025
+479,Milk Pack,Groceries,East,1,302.59,27-08-2025
+480,Desk,Furniture,West,18,8676.59,12-09-2025
+481,Smartwatch,Electronics,South,8,319.61,13-06-2025
+482,Jeans,Clothing,South,3,,24-04-2025
+483,Laptop,Electronics,West,8,1085.88,24-10-2025
+484,Desk,Furniture,South,15,5715.96,14-07-2025
+485,Rice Bag,Groceries,East,19,6544.82,22-06-2025
+486,Yoga Mat,Sports,West,15,7222.09,25-11-2025
+487,Sweater,Clothing,South,3,2469.56,28-03-2025
+488,Badminton Shuttle,Sports,North,14,6051.81,05-10-2025
+489,Cooking Oil,Groceries,North,,8310.69,09-12-2025
+490,Yoga Mat,Sports,South,,9446.88,19-11-2025
+491,Headphones,Electronics,West,14,,16-09-2025
+492,Jeans,Clothing,West,16,914.9,12-11-2025
+493,Cricket Bat,Sports,West,10,,10-10-2025
+494,Laptop,Electronics,East,,1271.63,02-10-2025
+495,Laptop,Electronics,South,19,5851.26,09-08-2025
+496,Smartwatch,Electronics,South,18,8932.08,04-05-2025
+497,Tea Powder,Groceries,West,15,6266.37,17-05-2025
+498,Headphones,Electronics,South,11,2631.26,17-10-2025
+499,Tennis Racket,Sports,North,2,3662.44,11-02-2025
+500,Headphones,Electronics,North,12,8315.01,01-09-2025
+501,Football,Sports,West,,4123.65,13-09-2025
+502,Football,Sports,North,9,4389.46,18-02-2025
+503,Sofa,Furniture,West,12,2234.13,18-10-2025
+504,Wardrobe,Furniture,North,,1444.13,24-05-2025
+505,Chair,Furniture,South,10,5679.48,17-04-2025
+506,Yoga Mat,Sports,East,14,4737.1,09-02-2025
+507,Chair,Furniture,East,17,4873.54,19-07-2025
+508,Jacket,Clothing,North,17,2723.34,19-12-2025
+509,Cooking Oil,Groceries,West,8,7003.52,20-02-2025
+510,Sofa,Furniture,West,7,2219.33,11-11-2025
+511,Yoga Mat,Sports,West,11,4245.95,19-08-2025
+512,Sofa,Furniture,South,13,6927.66,10-08-2025
+513,Cricket Bat,Sports,East,5,232.99,13-11-2025
+514,Sofa,Furniture,West,18,5320.13,20-03-2025
+515,Tennis Racket,Sports,East,10,5786.34,19-07-2025
+516,Jeans,Clothing,West,6,,07-06-2025
+517,Jeans,Clothing,South,5,6531.63,14-02-2025
+518,Kurta,Clothing,North,12,2103.89,28-07-2025
+519,Laptop,Electronics,East,10,1443.18,02-11-2025
+520,Jacket,Clothing,South,,7335.24,13-02-2025
+521,Sugar Pack,Groceries,South,2,6025.14,28-03-2025
+522,Wardrobe,Furniture,South,7,5754.28,02-02-2025
+523,Kurta,Clothing,East,17,4216.77,09-02-2025
+524,Wardrobe,Furniture,South,14,517.31,11-09-2025
+525,Sweater,Clothing,East,11,1884.49,22-07-2025
+526,Tea Powder,Groceries,East,4,7721.31,14-08-2025
+527,Kurta,Clothing,South,11,2922.5,01-11-2025
+528,Desk,Furniture,West,4,7204.51,13-04-2025
+529,T-Shirt,Clothing,East,7,6123.53,13-06-2025
+530,Badminton Shuttle,Sports,South,2,3996.66,22-10-2025
+531,T-Shirt,Clothing,East,5,4863.36,21-07-2025
+532,Smartwatch,Electronics,South,4,5421.44,07-10-2025
+533,Cricket Bat,Sports,South,19,,25-08-2025
+534,Sweater,Clothing,West,11,8471.76,05-02-2025
+535,Cricket Bat,Sports,East,13,1588.99,04-05-2025
+536,Cricket Bat,Sports,North,9,7720.58,13-07-2025
+537,Sweater,Clothing,West,9,797.62,25-07-2025
+538,Milk Pack,Groceries,North,,4157.3,26-12-2025
+539,Smartwatch,Electronics,South,11,6002.95,01-07-2025
+540,Football,Sports,West,7,805.54,27-11-2025
+541,Yoga Mat,Sports,North,18,8004.19,24-02-2025
+542,Smartwatch,Electronics,South,12,9678.61,23-09-2025
+543,Sweater,Clothing,South,6,5922.8,14-12-2025
+544,Jeans,Clothing,West,19,3180.24,01-06-2025
+545,Headphones,Electronics,East,17,1411.35,14-03-2025
+546,Desk,Furniture,West,10,6921.07,24-09-2025
+547,Jeans,Clothing,West,17,1892.07,23-12-2025
+548,T-Shirt,Clothing,North,16,,30-12-2025
+549,Laptop,Electronics,South,8,6407.55,13-12-2025
+550,Badminton Shuttle,Sports,East,17,6604.89,23-03-2025
+551,Milk Pack,Groceries,South,16,8499.5,27-07-2025
+552,Chair,Furniture,South,18,4919.78,15-01-2025
+553,Sweater,Clothing,South,15,6947.09,27-12-2025
+554,Table,Furniture,North,9,9443.39,02-02-2025
+555,Milk Pack,Groceries,North,15,489.45,23-08-2025
+556,Wardrobe,Furniture,East,16,9256.22,24-11-2025
+557,Tea Powder,Groceries,East,7,387.76,28-02-2025
+558,Jeans,Clothing,East,7,3008.62,11-12-2025
+559,Tea Powder,Groceries,North,16,1197.06,10-06-2025
+560,Sofa,Furniture,South,18,7463.39,22-12-2025
+561,Cooking Oil,Groceries,West,7,4578.68,22-10-2025
+562,Kurta,Clothing,South,10,6463.24,22-12-2025
+563,Milk Pack,Groceries,East,14,5982.89,06-04-2025
+564,Sweater,Clothing,West,3,5628.74,05-01-2025
+565,Tablet,Electronics,West,13,815.68,15-10-2025
+566,Kurta,Clothing,West,5,5326.14,16-08-2025
+567,Chair,Furniture,East,12,,23-04-2025
+568,Mobile,Electronics,West,17,5407.09,28-03-2025
+569,Sugar Pack,Groceries,North,13,6277.62,09-10-2025
+570,Sugar Pack,Groceries,North,16,4296.83,07-07-2025
+571,Yoga Mat,Sports,North,12,2367.95,06-08-2025
+572,Badminton Shuttle,Sports,North,3,8707.48,02-06-2025
+573,Sweater,Clothing,West,13,5312.92,14-02-2025
+574,Smartwatch,Electronics,East,3,746.8,29-10-2025
+575,Tennis Racket,Sports,South,14,3539.58,12-11-2025
+576,Table,Furniture,East,17,4049.21,19-10-2025
+577,Milk Pack,Groceries,East,12,6293.68,15-06-2025
+578,Desk,Furniture,North,12,9841.63,21-09-2025
+579,Tablet,Electronics,East,10,962.41,31-01-2025
+580,Football,Sports,South,7,5249.07,08-05-2025
+581,Tennis Racket,Sports,West,1,2425.83,13-12-2025
+582,Rice Bag,Groceries,West,3,4699.74,18-11-2025
+583,Jacket,Clothing,West,18,2998.27,17-02-2025
+584,Cooking Oil,Groceries,West,5,468.83,08-07-2025
+585,Rice Bag,Groceries,West,1,,17-02-2025
+586,Football,Sports,West,15,4306.34,02-02-2025
+587,Table,Furniture,East,17,3946.72,11-09-2025
+588,T-Shirt,Clothing,South,4,2221.63,23-10-2025
+589,Sugar Pack,Groceries,North,5,7874.13,16-12-2025
+590,Mobile,Electronics,North,11,5906.11,24-08-2025
+591,Smartwatch,Electronics,North,7,8797.23,22-08-2025
+592,Kurta,Clothing,East,14,6027.94,09-03-2025
+593,Chair,Furniture,East,13,9892.39,17-02-2025
+594,Wardrobe,Furniture,South,7,9912.13,29-11-2025
+595,Mobile,Electronics,South,8,9430.18,25-12-2025
+596,Kurta,Clothing,South,19,5151.25,01-01-2025
+597,Rice Bag,Groceries,West,10,517.11,23-09-2025
+598,Laptop,Electronics,West,,1905.06,03-03-2025
+599,Tennis Racket,Sports,North,3,8270.75,16-07-2025
+600,Badminton Shuttle,Sports,East,5,625.53,08-07-2025
+601,Tablet,Electronics,South,15,2202.42,10-03-2025
+602,Headphones,Electronics,South,9,,29-11-2025
+603,Sweater,Clothing,West,17,1780.26,19-03-2025
+604,Tea Powder,Groceries,North,10,5176.72,14-02-2025
+605,Tablet,Electronics,East,18,6975.41,16-07-2025
+606,Kurta,Clothing,North,3,8167.54,22-05-2025
+607,Sofa,Furniture,East,6,6248.23,08-11-2025
+608,Yoga Mat,Sports,East,15,,04-12-2025
+609,Table,Furniture,East,4,5821.86,20-07-2025
+610,Football,Sports,West,2,4601.45,03-05-2025
+611,Jacket,Clothing,North,3,2765.95,01-11-2025
+612,Cooking Oil,Groceries,East,9,,04-07-2025
+613,Tablet,Electronics,East,2,8628.17,04-08-2025
+614,Milk Pack,Groceries,North,9,3324.06,07-02-2025
+615,Sugar Pack,Groceries,North,5,7365.37,21-01-2025
+616,Jacket,Clothing,West,2,4114.11,14-09-2025
+617,Kurta,Clothing,South,15,100.57,02-10-2025
+618,Wardrobe,Furniture,South,5,535.4,15-04-2025
+619,Milk Pack,Groceries,North,18,856.41,29-11-2025
+620,Desk,Furniture,North,16,6848.42,03-05-2025
+621,Sofa,Furniture,North,5,9915.18,21-08-2025
+622,Desk,Furniture,North,18,4976.71,31-03-2025
+623,Laptop,Electronics,West,19,8255.58,25-03-2025
+624,Jeans,Clothing,South,8,6796.26,13-05-2025
+625,Jeans,Clothing,North,13,2706.93,18-05-2025
+626,Yoga Mat,Sports,East,6,5236.54,08-08-2025
+627,Cooking Oil,Groceries,North,16,6601.6,23-10-2025
+628,Rice Bag,Groceries,South,1,1615.54,13-09-2025
+629,Jeans,Clothing,North,16,7098.21,21-10-2025
+630,Sofa,Furniture,South,11,,07-01-2025
+631,Mobile,Electronics,South,10,1103.05,18-03-2025
+632,Mobile,Electronics,West,6,1932.75,02-12-2025
+633,Sofa,Furniture,East,5,8814.66,13-06-2025
+634,Headphones,Electronics,North,19,8796.76,11-12-2025
+635,Chair,Furniture,West,10,1332.26,24-01-2025
+636,Headphones,Electronics,East,11,2324.82,09-06-2025
+637,Headphones,Electronics,East,7,,13-04-2025
+638,Sugar Pack,Groceries,West,4,5584.01,05-05-2025
+639,Jeans,Clothing,South,13,5099.3,11-04-2025
+640,Tablet,Electronics,East,,1971.67,30-04-2025
+641,Football,Sports,North,13,6188.42,21-06-2025
+642,Yoga Mat,Sports,North,17,5620.45,07-06-2025
+643,Table,Furniture,North,8,2635.05,09-09-2025
+644,Tablet,Electronics,West,13,7809.46,29-04-2025
+645,Tennis Racket,Sports,North,6,2869.26,13-02-2025
+646,Cooking Oil,Groceries,North,7,5435.6,08-02-2025
+647,Kurta,Clothing,East,2,3451.63,30-05-2025
+648,T-Shirt,Clothing,East,15,9323.68,17-06-2025
+649,Sweater,Clothing,South,4,1778.85,14-04-2025
+650,Yoga Mat,Sports,South,4,724.98,24-02-2025
+651,Sweater,Clothing,East,17,7721.29,02-10-2025
+652,Yoga Mat,Sports,North,17,5842.6,16-05-2025
+653,Headphones,Electronics,North,1,626.31,27-12-2025
+654,Table,Furniture,South,18,8721.79,16-02-2025
+655,Jeans,Clothing,East,15,,03-06-2025
+656,Chair,Furniture,South,,6493.36,20-08-2025
+657,Smartwatch,Electronics,North,12,294.64,13-03-2025
+658,Laptop,Electronics,South,11,8224.05,24-04-2025
+659,Table,Furniture,North,15,4912,19-11-2025
+660,Sugar Pack,Groceries,North,19,2562.46,08-02-2025
+661,Headphones,Electronics,North,2,2772.59,07-03-2025
+662,T-Shirt,Clothing,South,4,4290.5,26-01-2025
+663,Sugar Pack,Groceries,North,13,8549.39,12-09-2025
+664,Jacket,Clothing,South,15,7958.36,20-04-2025
+665,Wardrobe,Furniture,South,11,2246.66,18-01-2025
+666,Football,Sports,West,2,7739.59,09-10-2025
+667,Mobile,Electronics,South,11,2768.93,03-08-2025
+668,Football,Sports,North,17,9634.2,19-11-2025
+669,Jacket,Clothing,West,15,4226.29,06-10-2025
+670,Jeans,Clothing,East,6,7612.94,18-07-2025
+671,Chair,Furniture,East,,9840.58,16-01-2025
+672,Mobile,Electronics,South,1,3241.39,03-07-2025
+673,Chair,Furniture,North,6,2338.05,17-05-2025
+674,Yoga Mat,Sports,East,3,359.78,18-07-2025
+675,Chair,Furniture,East,12,5649.37,24-12-2025
+676,Sugar Pack,Groceries,South,,4758.44,18-10-2025
+677,Sugar Pack,Groceries,East,8,1634.5,10-09-2025
+678,Chair,Furniture,South,17,957.09,30-04-2025
+679,Laptop,Electronics,South,8,,11-11-2025
+680,Tablet,Electronics,North,14,5327.03,15-06-2025
+681,Laptop,Electronics,North,7,6280.89,14-03-2025
+682,Cooking Oil,Groceries,West,12,373.64,11-07-2025
+683,Sugar Pack,Groceries,South,3,1895.32,11-03-2025
+684,Badminton Shuttle,Sports,East,15,4841.15,07-09-2025
+685,Chair,Furniture,East,14,6003.36,11-11-2025
+686,Sofa,Furniture,East,12,2513.02,13-07-2025
+687,Badminton Shuttle,Sports,West,9,2045.22,01-01-2025
+688,Yoga Mat,Sports,East,2,,05-11-2025
+689,Tea Powder,Groceries,South,11,9844.3,12-09-2025
+690,T-Shirt,Clothing,South,17,165.62,13-06-2025
+691,Football,Sports,East,18,6820.54,29-12-2025
+692,Sweater,Clothing,North,,4825.39,21-12-2025
+693,Jeans,Clothing,North,6,2952.04,01-01-2025
+694,Jacket,Clothing,West,13,7582.74,27-03-2025
+695,Rice Bag,Groceries,North,6,9082.8,12-07-2025
+696,Rice Bag,Groceries,South,11,4831.04,18-12-2025
+697,Chair,Furniture,East,9,2458.35,18-01-2025
+698,Laptop,Electronics,East,14,1467.83,07-02-2025
+699,Chair,Furniture,North,16,4849.45,08-02-2025
+700,T-Shirt,Clothing,North,1,5618.5,05-09-2025
+701,Kurta,Clothing,South,18,3298.29,11-08-2025
+702,Mobile,Electronics,West,2,5365.71,08-04-2025
+703,Tennis Racket,Sports,East,9,3538.74,04-10-2025
+704,Cricket Bat,Sports,West,1,8253.91,26-01-2025
+705,Sugar Pack,Groceries,East,7,1370.52,28-01-2025
+706,Laptop,Electronics,West,7,2048.55,05-12-2025
+707,Table,Furniture,East,18,8223.34,23-11-2025
+708,Headphones,Electronics,West,10,1716.45,23-07-2025
+709,Rice Bag,Groceries,West,17,9517.92,25-11-2025
+710,Chair,Furniture,West,3,8967.4,06-04-2025
+711,Mobile,Electronics,East,9,9365.31,26-04-2025
+712,Sugar Pack,Groceries,North,7,6148.79,08-12-2025
+713,Headphones,Electronics,South,9,7105.15,31-07-2025
+714,Milk Pack,Groceries,West,8,9476.14,25-09-2025
+715,Milk Pack,Groceries,South,15,8157.51,21-10-2025
+716,Rice Bag,Groceries,North,7,6625.16,01-01-2026
+717,Cooking Oil,Groceries,South,16,5498.54,20-10-2025
+718,Smartwatch,Electronics,South,3,455.5,27-03-2025
+719,Table,Furniture,West,10,4414.14,16-12-2025
+720,Table,Furniture,East,18,650.5,01-11-2025
+721,T-Shirt,Clothing,North,12,1637.47,04-02-2025
+722,Jacket,Clothing,West,13,6176.63,22-05-2025
+723,Laptop,Electronics,West,19,9759.86,25-09-2025
+724,Smartwatch,Electronics,North,4,7455.58,29-10-2025
+725,Smartwatch,Electronics,East,19,1658.64,27-05-2025
+726,Kurta,Clothing,West,6,7206.06,20-10-2025
+727,Mobile,Electronics,West,5,9963.52,13-11-2025
+728,Mobile,Electronics,South,9,4958.1,20-12-2025
+729,Mobile,Electronics,North,10,4062.45,10-07-2025
+730,T-Shirt,Clothing,West,15,2613.94,24-05-2025
+731,Tennis Racket,Sports,South,12,1783.22,27-04-2025
+732,Desk,Furniture,East,5,3492.05,14-06-2025
+733,Badminton Shuttle,Sports,West,12,7688.85,07-04-2025
+734,Table,Furniture,East,18,8676.96,06-09-2025
+735,Mobile,Electronics,West,9,4414.22,09-06-2025
+736,Tablet,Electronics,North,2,4892.36,19-10-2025
+737,Chair,Furniture,South,2,5997.35,30-01-2025
+738,Mobile,Electronics,South,4,4246.12,27-12-2025
+739,Wardrobe,Furniture,North,10,9921.73,23-07-2025
+740,Cricket Bat,Sports,West,,3869.28,01-11-2025
+741,Chair,Furniture,East,18,6334.02,10-10-2025
+742,Jeans,Clothing,North,15,2396.13,19-12-2025
+743,Desk,Furniture,South,,,20-10-2025
+744,Sofa,Furniture,West,10,2413.56,18-05-2025
+745,Cooking Oil,Groceries,North,,5150.52,16-12-2025
+746,Rice Bag,Groceries,North,5,8551.13,04-11-2025
+747,Sofa,Furniture,East,13,4399.8,06-06-2025
+748,Kurta,Clothing,East,15,5949.54,24-08-2025
+749,Table,Furniture,West,7,3624.37,16-11-2025
+750,Sugar Pack,Groceries,East,2,997.85,06-12-2025
+751,Milk Pack,Groceries,North,17,3941.26,02-06-2025
+752,Rice Bag,Groceries,East,2,8586.96,24-11-2025
+753,Wardrobe,Furniture,East,5,3285.64,30-11-2025
+754,Table,Furniture,West,8,6007.2,30-01-2025
+755,Cricket Bat,Sports,West,4,9699.72,14-01-2025
+756,Desk,Furniture,North,15,2385.01,18-07-2025
+757,Sugar Pack,Groceries,East,10,781.29,08-04-2025
+758,Badminton Shuttle,Sports,West,14,3342.35,23-11-2025
+759,Cricket Bat,Sports,South,10,6710.43,29-03-2025
+760,Desk,Furniture,South,9,4337.33,13-05-2025
+761,Cricket Bat,Sports,East,8,6190.59,24-04-2025
+762,Sofa,Furniture,East,1,2562.65,19-06-2025
+763,Wardrobe,Furniture,West,11,7377.2,02-03-2025
+764,Mobile,Electronics,North,5,5358.44,14-11-2025
+765,Rice Bag,Groceries,West,17,8449.5,15-12-2025
+766,Cooking Oil,Groceries,South,12,4491.37,19-03-2025
+767,Table,Furniture,South,15,8689.3,23-08-2025
+768,T-Shirt,Clothing,West,12,5422.06,11-02-2025
+769,T-Shirt,Clothing,North,18,9867.6,21-11-2025
+770,Laptop,Electronics,South,9,5335.14,28-03-2025
+771,Rice Bag,Groceries,West,1,1264.99,08-03-2025
+772,Football,Sports,West,6,1841.1,02-09-2025
+773,Laptop,Electronics,North,,1077.92,11-07-2025
+774,T-Shirt,Clothing,North,19,463.65,10-01-2025
+775,Football,Sports,East,10,4003.92,26-06-2025
+776,Tablet,Electronics,South,18,9652.93,06-06-2025
+777,Headphones,Electronics,West,11,222.93,29-05-2025
+778,Badminton Shuttle,Sports,South,18,9732.32,11-08-2025
+779,T-Shirt,Clothing,South,7,4574.66,07-04-2025
+780,Jacket,Clothing,South,,5241.21,09-03-2025
+781,Badminton Shuttle,Sports,East,,5345.84,05-03-2025
+782,Tennis Racket,Sports,East,13,,24-11-2025
+783,Yoga Mat,Sports,North,18,,25-01-2025
+784,Football,Sports,West,8,,01-03-2025
+785,Sweater,Clothing,South,1,7321.75,31-08-2025
+786,Table,Furniture,West,6,8688.02,04-06-2025
+787,Cricket Bat,Sports,South,15,6941.63,15-11-2025
+788,Kurta,Clothing,North,11,6848.32,13-11-2025
+789,Desk,Furniture,South,18,2479.27,12-04-2025
+790,Yoga Mat,Sports,East,8,8652.86,14-04-2025
+791,Tennis Racket,Sports,West,17,352.35,08-10-2025
+792,Table,Furniture,North,8,7965.33,01-05-2025
+793,Laptop,Electronics,West,4,6781.31,21-10-2025
+794,Tablet,Electronics,North,19,9411.71,08-02-2025
+795,Wardrobe,Furniture,East,14,3968.95,01-06-2025
+796,Sweater,Clothing,East,5,5792.99,21-01-2025
+797,Jeans,Clothing,North,2,9994.17,01-03-2025
+798,Yoga Mat,Sports,South,6,,12-03-2025
+799,T-Shirt,Clothing,East,1,4098.73,15-11-2025
+800,Badminton Shuttle,Sports,North,16,7536.66,04-04-2025
+801,Jacket,Clothing,West,13,2922.42,17-07-2025
+802,Kurta,Clothing,South,11,8791.23,27-02-2025
+803,Tennis Racket,Sports,North,6,3303.98,23-03-2025
+804,Kurta,Clothing,West,6,4409.81,19-10-2025
+805,Chair,Furniture,North,2,7634.74,10-11-2025
+806,Cricket Bat,Sports,West,9,3206.1,08-03-2025
+807,Rice Bag,Groceries,North,13,8187.45,24-01-2025
+808,Wardrobe,Furniture,South,7,,14-12-2025
+809,Cricket Bat,Sports,North,15,6320.58,19-12-2025
+810,Kurta,Clothing,West,7,5656.22,27-06-2025
+811,Tablet,Electronics,North,19,3916.15,10-11-2025
+812,Laptop,Electronics,West,1,2413.56,29-08-2025
+813,Chair,Furniture,East,17,4471.97,04-05-2025
+814,Wardrobe,Furniture,West,6,778.3,26-11-2025
+815,Jacket,Clothing,West,3,1726.02,16-08-2025
+816,Headphones,Electronics,West,14,6213.93,02-03-2025
+817,Badminton Shuttle,Sports,North,14,5029.43,31-07-2025
+818,Milk Pack,Groceries,East,8,5214.86,06-11-2025
+819,Cooking Oil,Groceries,East,6,9146.65,22-08-2025
+820,Jeans,Clothing,East,12,1532.47,21-08-2025
+821,Milk Pack,Groceries,East,16,5822.72,03-12-2025
+822,Tennis Racket,Sports,South,12,4793.12,04-12-2025
+823,Laptop,Electronics,East,11,7660.59,30-05-2025
+824,Tennis Racket,Sports,South,6,7481.41,10-09-2025
+825,Tennis Racket,Sports,South,12,9557.46,11-05-2025
+826,Table,Furniture,West,13,8232.81,21-04-2025
+827,Table,Furniture,North,11,125.25,01-08-2025
+828,Football,Sports,West,15,759.24,19-08-2025
+829,Cricket Bat,Sports,North,15,2472.65,13-09-2025
+830,Cooking Oil,Groceries,West,11,3831.74,10-08-2025
+831,Cooking Oil,Groceries,South,4,9347.64,21-12-2025
+832,Badminton Shuttle,Sports,East,19,1059.14,03-12-2025
+833,Cooking Oil,Groceries,South,4,2604.93,08-11-2025
+834,Wardrobe,Furniture,West,14,3107.54,31-05-2025
+835,Tablet,Electronics,East,15,5345.99,20-09-2025
+836,Tennis Racket,Sports,South,8,3147.51,11-10-2025
+837,Table,Furniture,East,4,7190.48,18-12-2025
+838,Cricket Bat,Sports,East,2,2762.61,02-04-2025
+839,Tennis Racket,Sports,West,4,8240.58,03-09-2025
+840,Cricket Bat,Sports,West,11,1276.07,27-05-2025
+841,Laptop,Electronics,North,12,,16-03-2025
+842,Cricket Bat,Sports,East,13,1886.62,24-03-2025
+843,Cricket Bat,Sports,East,17,5694.76,20-12-2025
+844,Table,Furniture,North,10,,20-08-2025
+845,Tea Powder,Groceries,West,4,916.04,25-04-2025
+846,Sofa,Furniture,East,1,3766.42,23-12-2025
+847,Tennis Racket,Sports,West,13,6349.86,18-07-2025
+848,Cricket Bat,Sports,East,13,6036.04,07-01-2025
+849,Table,Furniture,South,9,7947.75,15-08-2025
+850,Football,Sports,South,15,6129.26,29-10-2025
+851,Yoga Mat,Sports,South,10,9005.23,18-08-2025
+852,Cricket Bat,Sports,North,16,5588.54,21-09-2025
+853,Jacket,Clothing,South,,3055.5,16-05-2025
+854,Chair,Furniture,West,19,8519.18,19-06-2025
+855,Tennis Racket,Sports,North,7,,15-06-2025
+856,Yoga Mat,Sports,East,18,7678.23,05-12-2025
+857,Rice Bag,Groceries,East,10,4545.09,07-02-2025
+858,Cooking Oil,Groceries,South,18,1572.19,04-02-2025
+859,Kurta,Clothing,South,17,7381.89,28-06-2025
+860,Table,Furniture,South,2,4755.28,31-05-2025
+861,Yoga Mat,Sports,North,17,1825.54,15-10-2025
+862,Smartwatch,Electronics,South,5,6437.62,25-11-2025
+863,Mobile,Electronics,West,7,5489.64,28-02-2025
+864,Wardrobe,Furniture,East,10,2605.99,22-09-2025
+865,Cooking Oil,Groceries,East,13,5965.04,23-01-2025
+866,Football,Sports,South,2,2781.68,19-02-2025
+867,Yoga Mat,Sports,South,7,,03-02-2025
+868,Cricket Bat,Sports,West,3,4455.03,17-12-2025
+869,Smartwatch,Electronics,North,7,7258.94,11-08-2025
+870,Badminton Shuttle,Sports,North,11,,19-06-2025
+871,Headphones,Electronics,North,14,1085.89,09-05-2025
+872,Sugar Pack,Groceries,West,6,5804.95,28-07-2025
+873,Sweater,Clothing,West,7,7737.6,09-01-2025
+874,Cricket Bat,Sports,North,4,,13-11-2025
+875,Yoga Mat,Sports,East,1,,07-02-2025
+876,Cooking Oil,Groceries,North,9,3267.55,04-06-2025
+877,Desk,Furniture,North,6,3582.21,22-07-2025
+878,Rice Bag,Groceries,East,4,4451.98,20-07-2025
+879,Football,Sports,East,2,6712.55,28-11-2025
+880,Laptop,Electronics,North,12,2375.44,05-03-2025
+881,Laptop,Electronics,North,8,8806.79,08-10-2025
+882,Desk,Furniture,South,18,6817.31,26-06-2025
+883,Kurta,Clothing,South,12,3277.12,14-03-2025
+884,Chair,Furniture,North,3,1943.73,10-04-2025
+885,Chair,Furniture,West,2,9941.69,28-01-2025
+886,Football,Sports,East,2,3661.3,04-02-2025
+887,Smartwatch,Electronics,East,3,7319.97,19-06-2025
+888,Tablet,Electronics,North,8,5825.73,26-05-2025
+889,Table,Furniture,East,4,9618.57,12-11-2025
+890,Tennis Racket,Sports,East,15,2049.29,06-07-2025
+891,Kurta,Clothing,West,16,4124.3,24-04-2025
+892,Wardrobe,Furniture,West,16,62.3,19-06-2025
+893,Sweater,Clothing,North,16,6665.87,07-09-2025
+894,Chair,Furniture,South,3,9275.42,24-05-2025
+895,Milk Pack,Groceries,North,13,1242.3,17-11-2025
+896,Badminton Shuttle,Sports,North,19,,17-09-2025
+897,Sugar Pack,Groceries,North,5,7384.94,19-04-2025
+898,Milk Pack,Groceries,West,12,2474.38,04-10-2025
+899,Football,Sports,East,6,2607.62,25-04-2025
+900,Tablet,Electronics,East,8,7564.94,23-07-2025
+901,Cooking Oil,Groceries,South,,6104.44,11-11-2025
+902,Yoga Mat,Sports,South,12,7831.18,02-04-2025
+903,Badminton Shuttle,Sports,South,2,677.93,21-01-2025
+904,Yoga Mat,Sports,South,4,3066.13,09-07-2025
+905,Mobile,Electronics,West,18,3449.66,04-07-2025
+906,Rice Bag,Groceries,East,9,922.05,21-01-2025
+907,Smartwatch,Electronics,East,9,5121.76,21-05-2025
+908,Sugar Pack,Groceries,West,3,3999.97,01-12-2025
+909,Jeans,Clothing,East,4,8739.7,09-02-2025
+910,Jacket,Clothing,East,6,9197.95,27-07-2025
+911,Jeans,Clothing,North,11,5767.14,06-11-2025
+912,Cooking Oil,Groceries,North,5,3940.88,28-04-2025
+913,Cooking Oil,Groceries,South,12,9309.42,06-04-2025
+914,Jeans,Clothing,South,10,5420.34,05-12-2025
+915,Kurta,Clothing,West,13,3837.2,04-09-2025
+916,Rice Bag,Groceries,North,10,8687.16,30-07-2025
+917,Sofa,Furniture,South,,1455.72,24-03-2025
+918,Football,Sports,North,7,3081.56,17-03-2025
+919,Chair,Furniture,North,9,3259.15,27-07-2025
+920,Badminton Shuttle,Sports,South,3,1776.57,13-02-2025
+921,Sweater,Clothing,South,2,2274.96,04-09-2025
+922,Sofa,Furniture,South,14,9757.32,26-10-2025
+923,Tea Powder,Groceries,East,10,8233.68,18-12-2025
+924,Sweater,Clothing,West,1,9231.43,13-07-2025
+925,Tablet,Electronics,West,14,1435.02,16-09-2025
+926,Tablet,Electronics,North,16,7659.86,11-11-2025
+927,Milk Pack,Groceries,South,3,9530.34,04-09-2025
+928,Tea Powder,Groceries,West,6,,14-12-2025
+929,Cooking Oil,Groceries,West,2,728.31,24-12-2025
+930,Sofa,Furniture,East,2,5085.77,15-07-2025
+931,Sugar Pack,Groceries,North,15,9633,23-12-2025
+932,Kurta,Clothing,North,12,9659.93,30-04-2025
+933,Desk,Furniture,South,13,9367.67,12-05-2025
+934,Laptop,Electronics,North,18,2813.64,23-10-2025
+935,Cooking Oil,Groceries,East,,53.31,19-12-2025
+936,Kurta,Clothing,East,11,6214.9,30-11-2025
+937,Wardrobe,Furniture,East,19,3895.29,07-07-2025
+938,Cricket Bat,Sports,West,5,7818.58,10-10-2025
+939,Chair,Furniture,East,10,2156.97,10-05-2025
+940,Sugar Pack,Groceries,North,11,7554.82,12-03-2025
+941,Badminton Shuttle,Sports,North,15,9837.61,24-03-2025
+942,Table,Furniture,North,19,1748.11,09-10-2025
+943,Chair,Furniture,South,9,7837.83,16-02-2025
+944,Rice Bag,Groceries,East,14,1055.41,02-02-2025
+945,Sofa,Furniture,West,16,6931.6,16-07-2025
+946,Tea Powder,Groceries,North,1,5118.75,02-11-2025
+947,Yoga Mat,Sports,North,7,2327.5,13-08-2025
+948,Table,Furniture,East,5,6171.43,23-09-2025
+949,Table,Furniture,South,,5294.06,22-09-2025
+950,Tea Powder,Groceries,North,7,,03-05-2025
+951,Chair,Furniture,East,5,8871.71,24-07-2025
+952,Cricket Bat,Sports,North,3,3709.21,23-09-2025
+953,Badminton Shuttle,Sports,East,14,1810.03,09-10-2025
+954,Badminton Shuttle,Sports,East,5,159.76,28-06-2025
+955,Wardrobe,Furniture,West,2,1381.35,21-08-2025
+956,Sugar Pack,Groceries,North,,2635.14,17-09-2025
+957,Milk Pack,Groceries,East,10,6825.7,01-03-2025
+958,Milk Pack,Groceries,West,7,6208.53,22-12-2025
+959,Jacket,Clothing,West,13,170.6,23-06-2025
+960,Cricket Bat,Sports,West,18,6311.52,15-01-2025
+961,Smartwatch,Electronics,South,18,692.94,23-04-2025
+962,T-Shirt,Clothing,North,4,3745.52,02-10-2025
+963,Tennis Racket,Sports,West,17,5502.2,17-02-2025
+964,Cricket Bat,Sports,South,4,8653.37,11-10-2025
+965,Rice Bag,Groceries,East,16,7386.7,21-10-2025
+966,Chair,Furniture,West,8,8116.32,08-04-2025
+967,Badminton Shuttle,Sports,South,6,3954.32,16-05-2025
+968,Sofa,Furniture,East,10,8926.24,13-11-2025
+969,Tablet,Electronics,West,9,1066.39,10-02-2025
+970,Tea Powder,Groceries,West,,9431.17,22-01-2025
+971,Jeans,Clothing,East,2,4404.15,22-10-2025
+972,Rice Bag,Groceries,East,1,8416.67,19-09-2025
+973,Jacket,Clothing,West,8,4641.7,28-01-2025
+974,Rice Bag,Groceries,West,11,,27-06-2025
+975,Cricket Bat,Sports,West,8,8956.42,03-03-2025
+976,T-Shirt,Clothing,West,8,,18-04-2025
+977,Sugar Pack,Groceries,South,17,713.19,13-05-2025
+978,Milk Pack,Groceries,East,13,1544.18,10-11-2025
+979,Jeans,Clothing,East,12,5146.61,03-08-2025
+980,Jeans,Clothing,South,5,525.92,03-04-2025
+981,Sugar Pack,Groceries,South,8,893.68,19-05-2025
+982,Milk Pack,Groceries,South,11,6607.4,16-03-2025
+983,Rice Bag,Groceries,South,19,759,13-09-2025
+984,Football,Sports,East,17,9567.19,07-09-2025
+985,Wardrobe,Furniture,North,8,3564.85,23-07-2025
+986,Tennis Racket,Sports,West,14,9916.3,11-05-2025
+987,Football,Sports,East,15,9426.04,14-05-2025
+988,Jeans,Clothing,East,19,1892.7,12-05-2025
+989,Laptop,Electronics,South,11,4150.7,14-12-2025
+990,Sugar Pack,Groceries,East,5,6620.01,31-03-2025
+991,Jeans,Clothing,North,8,2687.21,17-08-2025
+992,Jacket,Clothing,South,6,872.05,16-03-2025
+993,Football,Sports,West,16,9680.21,20-11-2025
+994,Headphones,Electronics,East,8,7703.77,10-06-2025
+995,Football,Sports,West,9,3850.3,27-11-2025
+996,Wardrobe,Furniture,West,18,153.76,05-07-2025
+997,Kurta,Clothing,South,4,6169.38,06-03-2025
+998,Cricket Bat,Sports,South,14,739.08,10-02-2025
+999,Chair,Furniture,North,18,3256.04,31-08-2025
+1000,Laptop,Electronics,North,4,2963.58,12-02-2025
+1001,Wardrobe,Furniture,East,8,1183.87,19-07-2025
+1002,Sofa,Furniture,South,13,5845.11,17-11-2025
+1003,Tablet,Electronics,East,16,8127.11,18-01-2025
+1004,T-Shirt,Clothing,East,2,1324.55,04-10-2025
+1005,Milk Pack,Groceries,South,15,1152.54,24-12-2025
+1006,Sugar Pack,Groceries,West,18,2284.93,22-11-2025
+1007,Cooking Oil,Groceries,West,8,4349.16,27-06-2025
+1008,Milk Pack,Groceries,East,18,9433.6,07-06-2025
+1009,Kurta,Clothing,South,12,2014.83,01-01-2025
+1010,Jeans,Clothing,West,14,176.51,19-12-2025
+1011,Yoga Mat,Sports,East,3,,09-08-2025
+1012,Tea Powder,Groceries,South,7,,11-07-2025
+1013,Kurta,Clothing,South,9,5462.96,08-05-2025
+1014,Tennis Racket,Sports,South,13,2249.58,13-07-2025
+1015,Wardrobe,Furniture,East,8,7494.51,22-09-2025
+1016,Desk,Furniture,West,14,7775.65,18-05-2025
+1017,Table,Furniture,North,12,585.89,29-05-2025
+1018,Football,Sports,West,11,2729.85,25-12-2025
+1019,Table,Furniture,North,13,1689.91,01-10-2025
+1020,Chair,Furniture,West,15,964.12,06-03-2025
+1021,Badminton Shuttle,Sports,West,,2174.44,08-01-2025
+1022,Table,Furniture,East,19,1549.23,13-09-2025
+1023,Sweater,Clothing,South,12,,11-02-2025
+1024,Mobile,Electronics,West,11,7593.94,06-10-2025
+1025,Chair,Furniture,North,1,5108.19,15-07-2025
+1026,Smartwatch,Electronics,West,19,1558.12,17-07-2025
+1027,Sofa,Furniture,North,7,,24-08-2025
+1028,Cooking Oil,Groceries,East,5,1642.71,19-07-2025
+1029,T-Shirt,Clothing,North,10,5602.52,09-10-2025
+1030,Wardrobe,Furniture,North,8,2504.45,04-07-2025
+1031,Cricket Bat,Sports,West,5,8820.44,21-11-2025
+1032,T-Shirt,Clothing,North,,1036.82,27-10-2025
+1033,Jacket,Clothing,West,10,,22-01-2025
+1034,Tennis Racket,Sports,South,10,7436.36,15-02-2025
+1035,Chair,Furniture,North,14,6179.06,23-06-2025
+1036,Mobile,Electronics,North,2,3586.08,02-10-2025
+1037,Tablet,Electronics,East,13,5410.02,13-10-2025
+1038,Sweater,Clothing,East,4,,13-07-2025
+1039,Badminton Shuttle,Sports,West,12,7470.05,06-09-2025
+1040,Milk Pack,Groceries,South,14,7507.98,08-04-2025
+1041,Milk Pack,Groceries,South,11,7574.83,21-05-2025
+1042,Headphones,Electronics,East,6,8772.68,15-05-2025
+1043,Sweater,Clothing,South,,1290.9,14-07-2025
+1044,Laptop,Electronics,South,15,4513.68,14-11-2025
+1045,T-Shirt,Clothing,West,10,8867.65,03-10-2025
+1046,Table,Furniture,South,3,1421.34,10-10-2025
+1047,Tea Powder,Groceries,North,6,4155.59,14-06-2025
+1048,Smartwatch,Electronics,South,8,1824.81,08-03-2025
+1049,Mobile,Electronics,North,10,6214.91,20-02-2025
+1050,Sugar Pack,Groceries,East,4,1854.13,08-09-2025
+1051,Mobile,Electronics,North,13,975.26,06-02-2025
+1052,Table,Furniture,West,7,4835.68,10-02-2025
+1053,Football,Sports,East,14,7247.88,01-08-2025
+1054,Tennis Racket,Sports,North,5,5820.84,28-09-2025
+1055,Badminton Shuttle,Sports,North,4,575.4,21-04-2025
+1056,Smartwatch,Electronics,South,2,6013.72,08-04-2025
+1057,Cooking Oil,Groceries,West,19,2734.72,02-04-2025
+1058,Badminton Shuttle,Sports,West,19,5007.64,03-07-2025
+1059,Tennis Racket,Sports,South,14,1532.55,27-03-2025
+1060,Milk Pack,Groceries,West,13,7471.96,22-03-2025
+1061,Jeans,Clothing,East,6,2137.93,16-06-2025
+1062,Kurta,Clothing,South,4,5196.83,15-06-2025
+1063,Sugar Pack,Groceries,East,16,3765.95,09-10-2025
+1064,Jeans,Clothing,North,17,4368.49,23-07-2025
+1065,Badminton Shuttle,Sports,South,,3745.65,09-01-2025
+1066,Desk,Furniture,East,,6002.34,20-04-2025
+1067,Laptop,Electronics,South,15,9983.56,22-05-2025
+1068,Smartwatch,Electronics,East,,1776.13,12-03-2025
+1069,Jeans,Clothing,East,6,6379.96,12-05-2025
+1070,Headphones,Electronics,North,16,1823.61,22-04-2025
+1071,Badminton Shuttle,Sports,North,15,4128.55,07-09-2025
+1072,Tea Powder,Groceries,West,14,,23-10-2025
+1073,Headphones,Electronics,East,7,5740.13,21-06-2025
+1074,Kurta,Clothing,North,16,2069.22,27-04-2025
+1075,Football,Sports,North,10,3378.39,06-06-2025
+1076,T-Shirt,Clothing,South,13,7017.51,15-09-2025
+1077,Tablet,Electronics,West,13,6991.82,21-07-2025
+1078,Yoga Mat,Sports,West,13,7836.69,24-04-2025
+1079,Desk,Furniture,North,19,2630,22-06-2025
+1080,Rice Bag,Groceries,East,14,,24-07-2025
+1081,Headphones,Electronics,South,5,8427.24,24-12-2025
+1082,Yoga Mat,Sports,West,5,4835.01,07-09-2025
+1083,Football,Sports,South,10,9376.67,26-09-2025
+1084,Sofa,Furniture,North,4,1378.13,15-06-2025
+1085,Smartwatch,Electronics,South,4,545.93,28-06-2025
+1086,T-Shirt,Clothing,South,7,4989.79,06-06-2025
+1087,Jeans,Clothing,South,1,7813.12,15-08-2025
+1088,Sweater,Clothing,East,,7666.85,13-04-2025
+1089,Tablet,Electronics,North,14,6121.74,27-02-2025
+1090,Sofa,Furniture,North,4,183.36,28-05-2025
+1091,T-Shirt,Clothing,West,12,493.72,19-08-2025
+1092,Laptop,Electronics,South,7,2507.44,19-04-2025
+1093,Milk Pack,Groceries,South,14,2532.98,05-09-2025
+1094,Tennis Racket,Sports,North,16,,26-10-2025
+1095,Wardrobe,Furniture,East,10,8455.65,23-12-2025
+1096,Mobile,Electronics,West,6,700.39,04-02-2025
+1097,Cricket Bat,Sports,East,13,8538.24,04-12-2025
+1098,Smartwatch,Electronics,West,,673.4,29-11-2025
+1099,Sofa,Furniture,North,11,1435.49,30-12-2025
+1100,T-Shirt,Clothing,South,4,3186.14,15-02-2025
+1101,Table,Furniture,North,7,909.92,31-12-2025
+1102,Mobile,Electronics,West,15,267.14,20-06-2025
+1103,Jacket,Clothing,East,11,,17-12-2025
+1104,Jeans,Clothing,East,15,8827.25,14-09-2025
+1105,Mobile,Electronics,East,10,8287.29,16-01-2025
+1106,Sofa,Furniture,South,14,7321.67,03-12-2025
+1107,Headphones,Electronics,South,18,1492.4,14-12-2025
+1108,Kurta,Clothing,East,5,5675.04,09-06-2025
+1109,Sweater,Clothing,South,19,3121.55,12-03-2025
+1110,Tablet,Electronics,South,12,3527.59,26-09-2025
+1111,Kurta,Clothing,South,9,269.25,16-03-2025
+1112,T-Shirt,Clothing,South,4,4209,02-03-2025
+1113,T-Shirt,Clothing,East,7,6853.35,16-01-2025
+1114,Kurta,Clothing,East,1,5257.74,23-11-2025
+1115,Tablet,Electronics,North,2,4069.58,05-04-2025
+1116,Yoga Mat,Sports,South,11,723.3,07-11-2025
+1117,Tea Powder,Groceries,North,17,5458.21,03-07-2025
+1118,Tennis Racket,Sports,West,6,2300.16,06-11-2025
+1119,Tennis Racket,Sports,West,2,4872.73,18-07-2025
+1120,Rice Bag,Groceries,West,5,9459.7,17-01-2025
+1121,Yoga Mat,Sports,South,16,2200.1,31-07-2025
+1122,Badminton Shuttle,Sports,North,10,4649.84,15-04-2025
+1123,Chair,Furniture,West,16,4628.61,12-11-2025
+1124,Tennis Racket,Sports,West,7,5477.05,07-05-2025
+1125,Jacket,Clothing,East,15,5149.4,14-07-2025
+1126,Jacket,Clothing,North,10,9781.72,01-11-2025
+1127,Cooking Oil,Groceries,South,19,7873.47,22-01-2025
+1128,Cooking Oil,Groceries,West,7,8727.75,21-01-2025
+1129,Cooking Oil,Groceries,East,4,7579.68,08-04-2025
+1130,Sweater,Clothing,West,15,2088.57,27-05-2025
+1131,Chair,Furniture,South,15,8801.84,28-01-2025
+1132,Sweater,Clothing,North,14,2426.02,14-09-2025
+1133,Chair,Furniture,South,9,5623.81,23-12-2025
+1134,Jacket,Clothing,West,17,320.32,02-04-2025
+1135,Sugar Pack,Groceries,North,3,9096.74,21-08-2025
+1136,Wardrobe,Furniture,South,1,3937.75,31-12-2025
+1137,Tennis Racket,Sports,West,3,1099.46,28-12-2025
+1138,Football,Sports,South,18,979.41,16-07-2025
+1139,Jacket,Clothing,East,5,,29-03-2025
+1140,Sugar Pack,Groceries,South,12,5257.13,25-03-2025
+1141,Chair,Furniture,East,9,5797.05,07-06-2025
+1142,Badminton Shuttle,Sports,South,8,7989.25,17-11-2025
+1143,Smartwatch,Electronics,East,15,1998.62,02-01-2025
+1144,Laptop,Electronics,North,14,5353.64,06-10-2025
+1145,Tea Powder,Groceries,West,10,4503.65,29-10-2025
+1146,Sweater,Clothing,North,6,7942.95,04-11-2025
+1147,Sofa,Furniture,South,7,6154.06,18-11-2025
+1148,Mobile,Electronics,North,13,9066.13,28-06-2025
+1149,Tablet,Electronics,East,18,1730.1,05-11-2025
+1150,T-Shirt,Clothing,South,6,,02-08-2025
+1151,Chair,Furniture,South,1,382.17,21-12-2025
+1152,Sweater,Clothing,North,8,8945.2,19-01-2025
+1153,Yoga Mat,Sports,North,16,1563.44,14-07-2025
+1154,Yoga Mat,Sports,West,4,7996,30-05-2025
+1155,Tablet,Electronics,West,14,880.47,18-06-2025
+1156,Cooking Oil,Groceries,North,9,8045.86,30-01-2025
+1157,Sugar Pack,Groceries,West,14,3230.68,14-02-2025
+1158,Badminton Shuttle,Sports,East,1,4206.72,28-12-2025
+1159,Kurta,Clothing,East,13,3263.96,27-09-2025
+1160,Tablet,Electronics,West,6,9798.84,20-11-2025
+1161,Rice Bag,Groceries,East,5,5619.57,30-04-2025
+1162,Table,Furniture,North,,,17-11-2025
+1163,Badminton Shuttle,Sports,West,2,2137.04,01-08-2025
+1164,Mobile,Electronics,South,5,9735.9,23-11-2025
+1165,Laptop,Electronics,North,9,8199.68,11-05-2025
+1166,Desk,Furniture,North,18,1151.95,04-01-2025
+1167,Cricket Bat,Sports,North,12,9881.25,19-10-2025
+1168,Chair,Furniture,West,2,8225.29,11-12-2025
+1169,Rice Bag,Groceries,South,12,3174.9,04-09-2025
+1170,Football,Sports,West,2,8201.59,21-06-2025
+1171,Kurta,Clothing,East,12,3385.32,24-09-2025
+1172,Sugar Pack,Groceries,North,16,7134.54,02-10-2025
+1173,Table,Furniture,North,1,2436.75,01-07-2025
+1174,Tablet,Electronics,South,2,,12-07-2025
+1175,Sugar Pack,Groceries,East,15,1953.04,01-03-2025
+1176,Tennis Racket,Sports,West,11,6528.92,20-05-2025
+1177,Headphones,Electronics,East,16,5793.63,20-08-2025
+1178,Table,Furniture,North,17,8422.4,11-07-2025
+1179,Yoga Mat,Sports,North,11,8445.19,17-09-2025
+1180,Rice Bag,Groceries,West,3,359.6,24-06-2025
+1181,Badminton Shuttle,Sports,South,16,1108.12,17-06-2025
+1182,Yoga Mat,Sports,South,3,6878.96,22-09-2025
+1183,Table,Furniture,North,15,1790.07,01-01-2026
+1184,Laptop,Electronics,North,9,,01-11-2025
+1185,T-Shirt,Clothing,East,1,,24-09-2025
+1186,Laptop,Electronics,East,3,6956.8,18-04-2025
+1187,Table,Furniture,West,15,3087.84,13-06-2025
+1188,Cricket Bat,Sports,North,3,7643.4,21-05-2025
+1189,Laptop,Electronics,South,14,7604.52,22-02-2025
+1190,Milk Pack,Groceries,East,4,8718.48,14-03-2025
+1191,Sugar Pack,Groceries,East,7,8083.59,10-11-2025
+1192,Milk Pack,Groceries,North,13,8993.53,30-08-2025
+1193,Smartwatch,Electronics,South,19,9076.59,20-07-2025
+1194,Tennis Racket,Sports,West,2,4498.2,20-12-2025
+1195,Tea Powder,Groceries,North,6,2305.97,12-04-2025
+1196,Yoga Mat,Sports,West,8,1332.04,17-02-2025
+1197,Smartwatch,Electronics,West,19,9769.16,30-12-2025
+1198,Rice Bag,Groceries,East,14,4816.75,12-11-2025
+1199,Jeans,Clothing,East,17,468.15,07-12-2025
+1200,T-Shirt,Clothing,North,14,,01-09-2025
+1201,Jeans,Clothing,East,16,7091.5,25-05-2025
+1202,Tea Powder,Groceries,North,14,9112.16,27-07-2025
+1203,T-Shirt,Clothing,West,10,7008.19,04-06-2025
+1204,Jacket,Clothing,South,13,9629.96,05-05-2025
+1205,Rice Bag,Groceries,West,9,3082.27,22-12-2025
+1206,Kurta,Clothing,South,19,8733.9,22-12-2025
+1207,Chair,Furniture,West,14,2223.51,31-12-2025
+1208,Smartwatch,Electronics,North,4,1010.52,12-10-2025
+1209,Sweater,Clothing,North,9,173.42,05-02-2025
+1210,Cricket Bat,Sports,East,14,6003.66,14-07-2025
+1211,Rice Bag,Groceries,South,3,2302.2,22-04-2025
+1212,Sugar Pack,Groceries,South,14,7444.77,01-01-2025
+1213,Cricket Bat,Sports,West,4,691.69,19-07-2025
+1214,Table,Furniture,East,8,8778.75,03-06-2025
+1215,Kurta,Clothing,North,14,3437.04,15-02-2025
+1216,Tea Powder,Groceries,East,16,2433.13,07-03-2025
+1217,Mobile,Electronics,North,17,2888.64,28-01-2025
+1218,Tennis Racket,Sports,East,12,5848.93,26-02-2025
+1219,Laptop,Electronics,East,14,8564.18,21-07-2025
+1220,Tennis Racket,Sports,South,5,2560.46,07-10-2025
+1221,Cricket Bat,Sports,West,5,6009.84,12-10-2025
+1222,Jeans,Clothing,South,1,7388.78,10-12-2025
+1223,Tablet,Electronics,West,,9100.79,15-03-2025
+1224,Cricket Bat,Sports,South,4,8692.09,13-02-2025
+1225,Football,Sports,West,2,8795.84,23-12-2025
+1226,Tea Powder,Groceries,West,1,300.16,10-10-2025
+1227,Jacket,Clothing,North,15,867.96,06-11-2025
+1228,Sugar Pack,Groceries,East,12,4671.11,31-12-2025
+1229,Kurta,Clothing,North,15,6039.14,18-01-2025
+1230,Sugar Pack,Groceries,West,8,9483.68,25-10-2025
+1231,Tennis Racket,Sports,East,6,5937.39,27-09-2025
+1232,Sweater,Clothing,North,19,2412.46,09-11-2025
+1233,Sofa,Furniture,North,7,1360.35,09-12-2025
+1234,Cricket Bat,Sports,North,4,3875.89,09-06-2025
+1235,T-Shirt,Clothing,West,13,,21-08-2025
+1236,Sugar Pack,Groceries,East,12,9507.78,31-05-2025
+1237,Chair,Furniture,East,,4755.33,05-06-2025
+1238,Mobile,Electronics,North,9,5087.35,21-10-2025
+1239,Cricket Bat,Sports,North,6,755.78,16-11-2025
+1240,Desk,Furniture,East,18,3650.44,09-02-2025
+1241,Wardrobe,Furniture,North,12,6060.51,12-05-2025
+1242,Badminton Shuttle,Sports,South,8,2426.62,30-10-2025
+1243,Cricket Bat,Sports,South,10,9716.75,14-05-2025
+1244,Rice Bag,Groceries,East,13,4846.31,17-01-2025
+1245,Headphones,Electronics,West,8,4723.95,20-03-2025
+1246,Yoga Mat,Sports,West,16,2842.8,02-05-2025
+1247,Badminton Shuttle,Sports,North,17,5189.9,26-06-2025
+1248,Football,Sports,South,6,8548.65,27-01-2025
+1249,Sweater,Clothing,South,17,2229.73,30-09-2025
+1250,Jacket,Clothing,South,11,8447.05,15-05-2025
+1251,Cooking Oil,Groceries,West,1,,18-08-2025
+1252,Cricket Bat,Sports,North,17,2224.17,22-01-2025
+1253,Milk Pack,Groceries,East,10,2970.21,10-08-2025
+1254,T-Shirt,Clothing,West,9,4000.3,11-05-2025
+1255,Sweater,Clothing,South,5,2881.39,11-12-2025
+1256,Cooking Oil,Groceries,East,17,1182.69,03-04-2025
+1257,Milk Pack,Groceries,North,,,04-02-2025
+1258,Kurta,Clothing,East,9,345.2,17-08-2025
+1259,Sofa,Furniture,North,11,496.29,18-01-2025
+1260,Tea Powder,Groceries,South,11,1358.32,03-12-2025
+1261,Tea Powder,Groceries,North,14,1693.78,03-03-2025
+1262,Tea Powder,Groceries,South,8,4247.19,28-11-2025
+1263,Smartwatch,Electronics,North,12,8828.47,28-08-2025
+1264,Football,Sports,East,13,6098.66,07-08-2025
+1265,Wardrobe,Furniture,West,16,3002.44,01-02-2025
+1266,Jacket,Clothing,South,7,9542.63,16-05-2025
+1267,Sweater,Clothing,West,5,65.57,13-04-2025
+1268,Chair,Furniture,West,14,558.8,04-10-2025
+1269,Table,Furniture,East,13,8304.4,15-08-2025
+1270,Smartwatch,Electronics,West,,6057.76,09-05-2025
+1271,Laptop,Electronics,North,18,2604.11,24-11-2025
+1272,Mobile,Electronics,East,4,3869.2,25-12-2025
+1273,Jacket,Clothing,West,4,3722.08,09-09-2025
+1274,Kurta,Clothing,South,19,5983.4,05-02-2025
+1275,Laptop,Electronics,North,8,7524.22,04-09-2025
+1276,Sugar Pack,Groceries,East,1,4072.19,20-06-2025
+1277,Jacket,Clothing,North,19,3579.97,28-11-2025
+1278,Jeans,Clothing,West,7,4156.12,11-02-2025
+1279,Yoga Mat,Sports,North,9,6482.18,01-04-2025
+1280,Jacket,Clothing,North,19,5956.92,19-07-2025
+1281,Football,Sports,West,10,5046.43,20-11-2025
+1282,Badminton Shuttle,Sports,South,19,,13-01-2025
+1283,Rice Bag,Groceries,East,7,8743.3,26-11-2025
+1284,Rice Bag,Groceries,North,6,1249.56,19-08-2025
+1285,Mobile,Electronics,West,2,5323.42,22-01-2025
+1286,Smartwatch,Electronics,West,3,5362.98,25-09-2025
+1287,Cricket Bat,Sports,South,8,8209.13,24-10-2025
+1288,Headphones,Electronics,North,,4249.24,01-12-2025
+1289,Rice Bag,Groceries,South,3,4516.09,05-05-2025
+1290,Laptop,Electronics,North,13,,07-06-2025
+1291,Sweater,Clothing,North,5,1273.88,02-02-2025
+1292,Smartwatch,Electronics,North,17,2199.71,23-04-2025
+1293,Table,Furniture,West,6,8463.76,14-12-2025
+1294,T-Shirt,Clothing,South,11,4327.81,07-10-2025
+1295,T-Shirt,Clothing,South,3,822.27,24-01-2025
+1296,T-Shirt,Clothing,South,9,3097.82,01-08-2025
+1297,Tennis Racket,Sports,North,12,7993.88,05-05-2025
+1298,Tablet,Electronics,West,3,4528.73,10-11-2025
+1299,Yoga Mat,Sports,North,12,9170.52,11-02-2025
+1300,Laptop,Electronics,East,8,8902.04,30-11-2025
+1301,Kurta,Clothing,South,4,3960.09,01-09-2025
+1302,Table,Furniture,West,7,5141.23,19-08-2025
+1303,Sofa,Furniture,South,5,6475.12,20-01-2025
+1304,Tennis Racket,Sports,East,5,8906.47,18-11-2025
+1305,Jeans,Clothing,North,1,9469.11,09-04-2025
+1306,Cooking Oil,Groceries,South,19,303.21,04-10-2025
+1307,Sweater,Clothing,North,18,6387.18,22-05-2025
+1308,Table,Furniture,West,11,3889.45,31-08-2025
+1309,Chair,Furniture,East,11,3146.61,28-01-2025
+1310,Desk,Furniture,West,6,8479.04,12-11-2025
+1311,Mobile,Electronics,South,8,3677.71,03-10-2025
+1312,Chair,Furniture,North,12,5618.9,01-03-2025
+1313,Sofa,Furniture,West,4,1715.23,16-06-2025
+1314,Table,Furniture,North,18,4881.62,28-04-2025
+1315,T-Shirt,Clothing,South,3,9641.97,31-07-2025
+1316,Jacket,Clothing,West,4,1038.06,27-10-2025
+1317,Mobile,Electronics,West,14,358.01,09-11-2025
+1318,Chair,Furniture,East,10,3984.57,10-04-2025
+1319,Wardrobe,Furniture,North,6,7574.33,21-12-2025
+1320,Wardrobe,Furniture,West,15,4904.12,23-08-2025
+1321,Chair,Furniture,South,10,9005.83,01-06-2025
+1322,Football,Sports,South,5,9561.39,23-10-2025
+1323,Headphones,Electronics,West,5,4766.36,21-04-2025
+1324,Sweater,Clothing,South,6,6049.28,07-05-2025
+1325,T-Shirt,Clothing,South,9,9840.93,30-10-2025
+1326,Sugar Pack,Groceries,North,13,6088.43,23-01-2025
+1327,Rice Bag,Groceries,West,17,3885.84,06-08-2025
+1328,Rice Bag,Groceries,West,16,7746.71,20-02-2025
+1329,Rice Bag,Groceries,West,5,1583.74,07-01-2025
+1330,Table,Furniture,North,17,5345.96,28-11-2025
+1331,Laptop,Electronics,West,13,7630.92,27-12-2025
+1332,Sugar Pack,Groceries,West,19,,21-08-2025
+1333,Yoga Mat,Sports,East,2,2630.38,05-04-2025
+1334,Football,Sports,North,19,1812.85,18-11-2025
+1335,Jacket,Clothing,East,14,6790,17-01-2025
+1336,Kurta,Clothing,South,12,8315.35,10-11-2025
+1337,Cricket Bat,Sports,East,4,3505.41,29-01-2025
+1338,Mobile,Electronics,North,3,1547.69,13-11-2025
+1339,Jeans,Clothing,North,2,4914.53,27-12-2025
+1340,Milk Pack,Groceries,South,19,7834.76,21-06-2025
+1341,Milk Pack,Groceries,South,3,8809.13,25-10-2025
+1342,Yoga Mat,Sports,East,8,3291.94,30-06-2025
+1343,Cooking Oil,Groceries,East,19,2053.06,02-02-2025
+1344,Jeans,Clothing,West,8,442.62,04-03-2025
+1345,Tennis Racket,Sports,West,17,7123.3,30-05-2025
+1346,Tea Powder,Groceries,North,19,1367.11,21-12-2025
+1347,Table,Furniture,West,2,7235.33,11-02-2025
+1348,Chair,Furniture,South,13,4611.74,25-02-2025
+1349,Wardrobe,Furniture,South,11,5515.76,19-03-2025
+1350,Cooking Oil,Groceries,South,5,,02-08-2025
+1351,Rice Bag,Groceries,North,9,8777.05,27-11-2025
+1352,Desk,Furniture,East,12,,29-04-2025
+1353,Kurta,Clothing,West,19,4653.62,17-06-2025
+1354,Sugar Pack,Groceries,West,16,982.04,08-10-2025
+1355,Sweater,Clothing,South,6,5907.88,06-06-2025
+1356,Wardrobe,Furniture,North,4,2893.55,28-05-2025
+1357,Tablet,Electronics,South,1,5648.98,27-03-2025
+1358,Tennis Racket,Sports,South,15,6077.27,31-03-2025
+1359,Chair,Furniture,South,19,,12-06-2025
+1360,Sweater,Clothing,North,19,8949.8,15-10-2025
+1361,Cricket Bat,Sports,West,18,4462.39,10-07-2025
+1362,Milk Pack,Groceries,North,15,7657.05,04-03-2025
+1363,Jacket,Clothing,East,4,8075.56,23-08-2025
+1364,Tablet,Electronics,East,,2044.72,17-09-2025
+1365,Football,Sports,South,9,641.74,29-05-2025
+1366,Sugar Pack,Groceries,North,13,4419.54,23-06-2025
+1367,Badminton Shuttle,Sports,North,17,,14-12-2025
+1368,Desk,Furniture,West,,671.45,23-04-2025
+1369,Jeans,Clothing,South,6,2597.67,25-11-2025
+1370,Sugar Pack,Groceries,South,5,5128.8,23-05-2025
+1371,Laptop,Electronics,North,14,2246.42,13-12-2025
+1372,Cooking Oil,Groceries,North,16,7637.83,05-11-2025
+1373,Cricket Bat,Sports,East,11,8726.88,07-08-2025
+1374,Jacket,Clothing,East,10,1387.63,29-06-2025
+1375,Sweater,Clothing,West,16,8206.99,16-08-2025
+1376,Sweater,Clothing,West,9,2823.66,06-08-2025
+1377,Tablet,Electronics,South,15,9905.93,15-03-2025
+1378,Desk,Furniture,North,18,6784.37,21-06-2025
+1379,Sugar Pack,Groceries,East,17,943.63,29-07-2025
+1380,Kurta,Clothing,South,7,489.41,18-10-2025
+1381,Table,Furniture,West,4,8349.74,11-10-2025
+1382,Mobile,Electronics,East,1,736.84,27-10-2025
+1383,Rice Bag,Groceries,North,13,7546.61,14-01-2025
+1384,Tablet,Electronics,West,5,8228.17,22-11-2025
+1385,Smartwatch,Electronics,South,9,7672.85,02-08-2025
+1386,Rice Bag,Groceries,North,4,7015.34,15-01-2025
+1387,Yoga Mat,Sports,East,8,4021.05,04-02-2025
+1388,Sugar Pack,Groceries,West,2,822.61,13-05-2025
+1389,Tennis Racket,Sports,North,4,4100.71,22-10-2025
+1390,Wardrobe,Furniture,West,6,3096.07,13-06-2025
+1391,Tennis Racket,Sports,East,8,1154.43,20-05-2025
+1392,Kurta,Clothing,East,13,9479.5,25-01-2025
+1393,Desk,Furniture,South,2,110.58,21-09-2025
+1394,Yoga Mat,Sports,South,19,5249.64,03-11-2025
+1395,Milk Pack,Groceries,East,16,6833.4,17-12-2025
+1396,Wardrobe,Furniture,East,17,5031.21,19-02-2025
+1397,Tablet,Electronics,West,,2460.2,10-07-2025
+1398,Kurta,Clothing,South,6,549.75,22-02-2025
+1399,Tablet,Electronics,North,2,7115.6,14-10-2025
+1400,Kurta,Clothing,North,15,2150.57,09-03-2025
+1401,Rice Bag,Groceries,West,2,2845.99,13-03-2025
+1402,Tea Powder,Groceries,East,8,2960.53,30-03-2025
+1403,Laptop,Electronics,South,7,4790.55,07-03-2025
+1404,Tennis Racket,Sports,North,1,5512.36,08-03-2025
+1405,Kurta,Clothing,North,13,6054.76,09-02-2025
+1406,Yoga Mat,Sports,North,19,6495.78,11-04-2025
+1407,Mobile,Electronics,West,17,7211.92,31-01-2025
+1408,Smartwatch,Electronics,North,10,,04-06-2025
+1409,Yoga Mat,Sports,South,8,5568.84,05-11-2025
+1410,Sugar Pack,Groceries,North,18,2457.22,29-06-2025
+1411,Headphones,Electronics,East,14,8234.22,23-05-2025
+1412,Jeans,Clothing,South,15,5547.38,10-11-2025
+1413,Cooking Oil,Groceries,North,4,1471.62,24-10-2025
+1414,Cooking Oil,Groceries,South,8,2750.52,25-05-2025
+1415,Yoga Mat,Sports,South,14,8825.82,20-02-2025
+1416,Cooking Oil,Groceries,South,2,7231.13,24-12-2025
+1417,Sweater,Clothing,West,9,7499.02,01-07-2025
+1418,Kurta,Clothing,East,15,1072.35,27-02-2025
+1419,Smartwatch,Electronics,East,17,5135.73,11-09-2025
+1420,Tennis Racket,Sports,East,18,2797.89,12-02-2025
+1421,Rice Bag,Groceries,East,6,8962.48,04-11-2025
+1422,Cricket Bat,Sports,West,18,4696.33,11-10-2025
+1423,Desk,Furniture,West,6,2505.9,05-02-2025
+1424,Cricket Bat,Sports,West,11,,12-12-2025
+1425,Cricket Bat,Sports,North,11,2740.41,04-12-2025
+1426,Smartwatch,Electronics,North,2,3167.81,30-10-2025
+1427,Badminton Shuttle,Sports,East,4,9076.64,03-02-2025
+1428,Table,Furniture,North,19,4366.48,26-07-2025
+1429,Sofa,Furniture,East,17,3804.27,23-05-2025
+1430,Yoga Mat,Sports,East,12,6767.64,24-07-2025
+1431,Rice Bag,Groceries,East,17,6885.84,06-09-2025
+1432,Tablet,Electronics,West,1,9305.2,09-05-2025
+1433,Rice Bag,Groceries,North,10,1434.2,16-01-2025
+1434,Badminton Shuttle,Sports,North,11,6680.53,14-12-2025
+1435,Chair,Furniture,East,1,2820.47,20-03-2025
+1436,Tea Powder,Groceries,West,11,9510.19,05-12-2025
+1437,Sweater,Clothing,East,15,9442.62,09-09-2025
+1438,Milk Pack,Groceries,North,9,1098.38,07-10-2025
+1439,Yoga Mat,Sports,West,,6361.68,02-03-2025
+1440,Sweater,Clothing,North,5,529.45,24-08-2025
+1441,Mobile,Electronics,South,5,5010.78,05-06-2025
+1442,Rice Bag,Groceries,West,7,5028.99,19-07-2025
+1443,Yoga Mat,Sports,West,9,4785.88,04-12-2025
+1444,Rice Bag,Groceries,West,16,2128.38,29-01-2025
+1445,Wardrobe,Furniture,East,14,7719.27,12-11-2025
+1446,Yoga Mat,Sports,North,9,570.93,15-01-2025
+1447,Tablet,Electronics,North,9,1900.93,26-10-2025
+1448,Yoga Mat,Sports,West,5,8230.69,19-02-2025
+1449,Jeans,Clothing,South,2,2159.34,29-01-2025
+1450,Sofa,Furniture,North,9,8704.14,13-02-2025
+1451,Desk,Furniture,East,1,7972.59,03-10-2025
+1452,Mobile,Electronics,West,13,407.59,18-10-2025
+1453,Wardrobe,Furniture,East,,1409.18,12-01-2025
+1454,Jacket,Clothing,West,7,1300.96,20-02-2025
+1455,Smartwatch,Electronics,East,3,3190.49,12-09-2025
+1456,Chair,Furniture,South,12,569.38,12-08-2025
+1457,Rice Bag,Groceries,South,8,4708.13,08-02-2025
+1458,Desk,Furniture,West,1,8907.64,21-10-2025
+1459,Sofa,Furniture,North,11,3709.47,24-10-2025
+1460,Sugar Pack,Groceries,West,17,1159.55,29-09-2025
+1461,Kurta,Clothing,East,10,5460.87,30-11-2025
+1462,Cooking Oil,Groceries,East,15,8363.03,04-10-2025
+1463,Table,Furniture,West,14,2456.79,21-09-2025
+1464,Cricket Bat,Sports,South,6,3406.59,10-01-2025
+1465,Sugar Pack,Groceries,East,17,1287.47,28-08-2025
+1466,Football,Sports,North,10,362.65,11-08-2025
+1467,Cooking Oil,Groceries,South,3,4072.68,04-05-2025
+1468,Badminton Shuttle,Sports,West,17,9065.36,11-08-2025
+1469,T-Shirt,Clothing,South,11,8782.59,21-11-2025
+1470,Kurta,Clothing,East,6,7634.97,24-03-2025
+1471,Cricket Bat,Sports,South,16,7740.57,28-02-2025
+1472,Table,Furniture,West,,1358.61,08-06-2025
+1473,Rice Bag,Groceries,North,12,1299.22,28-11-2025
+1474,Table,Furniture,East,10,7713.07,13-05-2025
+1475,Cricket Bat,Sports,West,9,1246.06,22-01-2025
+1476,Laptop,Electronics,East,6,4383.3,10-06-2025
+1477,Headphones,Electronics,North,1,7403.31,06-07-2025
+1478,Jacket,Clothing,South,7,3513.55,13-03-2025
+1479,Smartwatch,Electronics,East,12,63.47,03-03-2025
+1480,Rice Bag,Groceries,East,11,6646.92,04-03-2025
+1481,T-Shirt,Clothing,West,13,9743.23,01-05-2025
+1482,Table,Furniture,West,15,6772.02,21-05-2025
+1483,Kurta,Clothing,East,11,8306.14,09-09-2025
+1484,Tennis Racket,Sports,West,8,2110.59,05-08-2025
+1485,Cricket Bat,Sports,East,4,8999.58,16-03-2025
+1486,Rice Bag,Groceries,North,9,9376.92,11-01-2025
+1487,Badminton Shuttle,Sports,South,2,4866.57,20-12-2025
+1488,Wardrobe,Furniture,East,15,644.18,25-12-2025
+1489,Cricket Bat,Sports,West,12,625.55,15-08-2025
+1490,Laptop,Electronics,East,8,9430.11,11-05-2025
+1491,Headphones,Electronics,South,5,5330.84,02-06-2025
+1492,Chair,Furniture,West,18,6463.68,26-11-2025
+1493,Mobile,Electronics,West,9,2089.56,09-09-2025
+1494,Badminton Shuttle,Sports,North,12,6216.36,05-08-2025
+1495,Chair,Furniture,West,10,3185.71,30-06-2025
+1496,Tea Powder,Groceries,West,19,1512.28,17-06-2025
+1497,Tennis Racket,Sports,South,,6377.75,25-11-2025
+1498,Football,Sports,West,15,1680.62,02-01-2025
+1499,Table,Furniture,North,11,2636.05,12-02-2025
+1500,Chair,Furniture,South,17,9476.58,29-11-2025
